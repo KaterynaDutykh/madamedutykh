@@ -1,0 +1,47 @@
+  <!-- Site Nav Bar -->
+  {{ $currentPage := . }}
+  {{ $menu := .Site.Menus.main}}
+  {{range $index, $element := $menu}}
+  <li class=" {{ if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{ end }}">
+     <a class="nav-link scroll-to" href="{{ .URL | relLangURL }}"> {{ i18n .Identifier | default .Name}} </a>
+  </li>
+  {{end}}
+
+
+  <li class="">
+      <select class="" id="selectLangauge" onchange="location = this.value ">
+      <!-- Language Menu -->
+      {{ $siteLanguages := $.Site.Home.AllTranslations }}
+      {{ $pageLang := .Page.Lang }}
+      <ul>
+        {{ range site.Languages }}
+          <li>{{ .Lang }} - {{ .LanguageName }}</li>
+        {{ end }}
+      </ul>
+      
+      <ul>
+        {{ range .Page.AllTranslations }}
+          <li>{{ .Lang }} → {{ .Title }}</li>
+        {{ end }}
+      </ul>
+      
+        {{ range .Page.AllTranslations }}
+          {{ $translation := . }}
+          {{ range $siteLanguages }}
+            {{if eq $translation.Lang .Lang}}
+                {{ $selected := false }}
+                {{ if eq $pageLang .Lang}}
+                  <option id="{{ $translation.Language }}" value="{{ $translation.URL }}" selected>
+                    {{ .Language.LanguageName }}
+                  </option>
+                {{ else }}
+                <option id="{{ $translation.Language }}" value="{{ $translation.URL }}">
+                  {{ .Language.LanguageName }}
+                </option>
+                {{ end }}
+            {{ end }}
+          {{ end }}
+        {{end}}
+    </select>
+  </li>
+</ul>

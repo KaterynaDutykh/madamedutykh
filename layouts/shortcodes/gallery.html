@@ -1,0 +1,8 @@
+<div class="gallery">
+  {{ range .Page.Params.gallery_item }}
+    <div class="gallery-item">
+      <img src="{{ .image | absURL }}" alt="{{ .caption }}">
+      <div class="caption">{{ .caption }}</div>
+    </div>
+  {{ end }}
+</div>

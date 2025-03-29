@@ -1,0 +1,3 @@
+{{ with resources.Get (.Get "src") }} {{ with .Resize (printf "400x webp q50" )
+}} <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}"
+alt="{{ $.Get "alt" }}" class="w-100" loading="lazy"/> {{ end }} {{ end }}

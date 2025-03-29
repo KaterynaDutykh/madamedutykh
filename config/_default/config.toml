@@ -1,0 +1,162 @@
+# Core settings from config.toml
+baseURL = "https://ShuvamKhamrui223.github.io/"
+title = "Madame Dutykh"
+theme = "LoveIt"  # Ensure the theme is specified
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+languageCode= "en"
+paginaton.pagerSize = 6
+ignoreErrors = ["error-remote-getjson"]
+publishDir = "docs"
+
+# Remove or comment out incorrect themesDir
+# themesDir = "../.."  # Not needed unless themes are in a custom location
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+    
+# Multilingual configuration
+[languages]
+  [languages.en]
+    weight = 1
+    title = "Madame Dutykh"
+    languageCode = "en"
+    languageName = "English"
+    contentDir = "content/en/"
+   
+  [languages.ru]
+    weight = 2
+    title = "Madame Dutykh"
+    languageCode = "ru"
+    languageName = "Русский"
+    contentDir = "content/ru/"
+    
+  [languages.fr]
+    weight = 3
+    title = "Madame Dutykh"
+    languageCode = "fr"
+    languageName = "Français"
+    contentDir = "content/fr/"
+    
+
+# From hugo.toml
+[module]
+  [module.hugoVersion]
+    min = "0.128.0"
+
+[params]
+  defaultTheme = "auto"
+  gitRepo = ""
+  fingerprint = ""
+  enableSCSS = true
+  dateFormat = "2006-01-02"
+  title = "Madame Dutykh"
+  description = "Journeys, Reflections, and Life Abroad"
+  images = []
+
+  [params.header]
+    desktopMode = "fixed"
+    mobileMode = "auto"
+    [params.header.title]
+      logo = ""
+      name = "Madame Dutykh"
+      pre = ""
+      post = ""
+      typeit = false
+
+  [params.footer]
+    enable = true
+    custom = ""
+    hugo = true
+    copyright = true
+    author = true
+    since = 2024
+
+  [params.section]
+    paginate = 20
+    dateFormat = "01-02"
+    rss = 10
+
+  [params.list]
+    paginate = 20
+    dateFormat = "01-02"
+    rss = 10
+
+  [params.app]
+    title = "Madame Dutykh"
+    noFavicon = false
+    svgFavicon = ""
+    themeColor = "#ffffff"
+    iconColor = "#50040F"
+    tileColor = "#D35140"
+  
+  [params.onesignal]
+    enable = true
+    id = "bketrin@gmail.com"
+    password = "6&Ci23phZPHn6E"
+
+  [params.search]
+    enable = false
+    type = "lunr"
+    contentLength = 4000
+    placeholder = ""
+    maxResultLength = 10
+    snippetLength = 30
+    highlightTag = "em"
+    absoluteURL = false
+    [params.search.algolia]
+      index = ""
+      appID = ""
+      searchKey = ""
+
+  [params.home]
+    rss = 10
+    [params.home.profile]
+      enable = true
+      gravatarEmail = ""
+      avatarURL = ""
+      title = ""
+      subtitle = "La vie est belle!"
+      typeit = true
+      social = true
+      disclaimer = ""
+    [params.home.posts]
+      enable = true
+      paginate = 6
+
+  [params.social]
+    Linkedin = "https://www.linkedin.com/in/kateryna-dutykh/"
+    Facebook = "/https://www.facebook.com/ekateryna.d/"
+    Instagram = "/https://www.instagram.com/kateryna.dutykh/"
+    # Add other social links as needed
+
+  [params.page]
+    hiddenFromHomePage = false
+    hiddenFromSearch = false
+    twemoji = false
+    lightgallery = false
+    ruby = true
+    fraction = true
+    fontawesome = true
+    linkToMarkdown = true
+    rssFullText = false
+    [params.page.toc]
+      enable = true
+      keepStatic = false
+      auto = true
+    [params.page.code]
+      copy = true
+      maxShownLines = 50
+    [params.page.math]
+      enable = false
+    [params.page.share]
+      enable = true
+      Twitter = false
+      Facebook = true
+      Linkedin = true
+
+# Markup settings from config.toml
+[markup]
+  [markup.highlight]
+    noClasses = false

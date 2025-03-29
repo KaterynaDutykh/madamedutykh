@@ -1,0 +1,9 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Madame Dutykh</title>
+        <link>https://katerynadutykh.github.io/madame-dutykh/</link>
+        <description>Journeys, Reflections, and Life Abroad</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 18 Sep 2024 00:00:00 &#43;0000</lastBuildDate>
+            <atom:link href="https://katerynadutykh.github.io/madame-dutykh/index.xml" rel="self" type="application/rss+xml" />
+        </channel>
+</rss>

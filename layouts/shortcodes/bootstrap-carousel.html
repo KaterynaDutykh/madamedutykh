@@ -1,0 +1,92 @@
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css
+"
+/>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js
+"></script>
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/lightgallery/css/lightgallery-bundle.min.css"
+/>
+<script src="https://cdn.jsdelivr.net/npm/lightgallery/lightgallery.umd.min.js"></script>
+
+{{ $id := .Get "id" | default "carouselExample" }}
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    const lightbox = GLightbox({ selector: ".glightbox", loop: true });
+  });
+  document.addEventListener("DOMContentLoaded", () => {
+    let carouselEl = document.getElementById(" #{{$id}} ");
+
+    // Create a new Bootstrap 5 Carousel instance with specified options
+    const carousel = new bootstrap.Carousel(carouselEl, {
+      interval: 50,
+    });
+
+    // Add an event listener for the 'slide.bs.carousel' event, fires immediately when the slide instance method is invoked.
+    carouselEl.addEventListener("slide.bs.carousel", (event) => {
+      const container = document.querySelector(".carousel-inner");
+      window.lightGallery(container, {
+        plugins: [lgThumbnail],
+        selector: ".lg-item",
+        escKey: true,
+      });
+    });
+  });
+</script>
+
+{{ $images := .Page.Params.slides }}
+<!-- Fetch images from front matter -->
+
+{{ if $images }}
+<div id="{{ $id }}" class="carousel slide" data-bs-ride="carousel" style="width: fit-content;">
+  <div class="carousel-inner" style="width: fit-content;">
+    {{ range $index, $img := $images }}
+    <div class="carousel-item {{ if eq $index 0 }}active{{ end }}">
+      {{ $original := resources.Get $img.image }} {{ if $original }} {{ $webp :=
+      $original.Resize "1200x webp q60" }}
+      <!-- Convert to WebP & Reduce Quality -->
+      <a
+        data-src="{{$webp.RelPermalink}}"
+        href="{{$webp.RelPermalink}}"
+        class="lg-item glightbox"
+      >
+        <img
+          src="{{$webp.RelPermalink}}"
+          alt="{{$img.caption}}"
+          class="img-responsive"
+        />
+      </a>
+      {{ end }}
+    </div>
+    {{ end }}
+  </div>
+  <button
+    class="carousel-control-prev"
+    type="button"
+    data-bs-target="#{{ $id }}"
+    data-bs-slide="prev"
+  >
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button
+    class="carousel-control-next"
+    type="button"
+    data-bs-target="#{{ $id }}"
+    data-bs-slide="next"
+  >
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+{{ end }}
+
+<style>
+  .carousel-item {
+    .lg-item > img {
+      height: 400px;
+    }
+  }
+</style>

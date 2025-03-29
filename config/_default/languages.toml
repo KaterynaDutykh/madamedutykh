@@ -1,0 +1,22 @@
+[en]
+  title = "Madame Dutykh Blog"
+  languageName = "English"
+  contentDir = "content/en/"
+  menuFile = "en.toml"
+  weight = 1
+  rss = true
+[fr]
+  title = "Madame Dutykh Blog"
+  languageName = "French"
+  contentDir = "content/fr/"
+  menuFile = "fr.toml"
+  weight = 2
+  rss = true
+[ru]
+  title = "Madame Dutykh Blog"
+  languageName = "Russian"
+  contentDir = "content/ru/"
+  menuFile = "ru.toml"
+  weight = 3
+  rss = true
+

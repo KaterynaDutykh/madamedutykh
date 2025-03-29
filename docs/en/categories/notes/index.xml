@@ -1,0 +1,295 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Notes - Category - My English Site</title>
+        <link>http://localhost:1313/en/categories/notes/</link>
+        <description>Notes - Category - My English Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="http://localhost:1313/en/categories/notes/" rel="self" type="application/rss+xml" /><item>
+    <title>Welcome</title>
+    <link>http://localhost:1313/en/posts/post1/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>Kateryna</author>
+    <guid>http://localhost:1313/en/posts/post1/</guid>
+    <description><![CDATA[<p>This is the English version of the website post 1.</p>
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/lightgallery/css/lightgallery-bundle.min.css"
+/>
+
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    const lightbox = GLightbox({ selector: ".lightgallery" });
+  });
+</script>
+<div id="lightgallery">
+      
+  
+  <a href="/images/post-1/Bilbao_collage_1_hu_54d2d5c8e7d00f35.webp" class="lightgallery glightbox">
+    
+  </a>
+      
+  
+  <a href="/images/post-1/vertical_hu_a44f0217a7467265.webp" class="lightgallery glightbox">
+    
+  </a>
+      
+  
+  <a href="/images/post-1/Bilbao_collage_1_hu_54d2d5c8e7d00f35.webp" class="lightgallery glightbox">
+    
+  </a>
+      
+  
+  <a href="/images/post-1/Bilbao_collage_1_hu_54d2d5c8e7d00f35.webp" class="lightgallery glightbox">
+    
+  </a>
+      
+  
+  <a href="/images/post-1/vertical_hu_a44f0217a7467265.webp" class="lightgallery glightbox">
+    
+  </a>
+      
+  
+  <a href="/images/post-1/Bilbao_collage_1_hu_54d2d5c8e7d00f35.webp" class="lightgallery glightbox">
+    
+  </a>
+   
+</div>
+<script src="https://cdn.jsdelivr.net/npm/lightgallery/lightgallery.umd.min.js"></script>
+
+<style>
+  #lightgallery {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    gap: 14px;
+    margin: auto;
+    min-height: 20rem;
+    max-width: 1000px;
+  }
+
+  #lightgallery img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    max-height: 25rem;
+    cursor: pointer;
+    object-fit: cover;
+    border-radius: 6px;
+    transition: all 0.4s ease;
+    &:hover {
+      scale: 105%;
+    }
+  }
+  .lightgallery {
+    &:first-child {
+      grid-column: span 3;
+    }
+    &:nth-child(2) {
+      grid-column: 4/5;
+    }
+    &:nth-child(3) {
+      grid-column: 5/7;
+    }
+    &:nth-child(4) {
+      grid-column: 7/8;
+    }
+    &:nth-child(5) {
+      grid: 2/3 7/8;
+    }
+    &:nth-child(6) {
+      grid-column: 2/5;
+    }
+  }
+  @media screen and (width <= 1024px) {
+    #lightgallery {
+      max-width: 700px;
+    }
+  }
+
+  @media screen and (width<= 768px) {
+    #lightgallery {
+      max-width: 500px;
+      grid-template-rows: repeat(4, 1fr);
+
+      img {
+        max-height: 15rem;
+      }
+
+      img:first-child {
+        grid-column: 1/-1;
+      }
+      img:nth-child(2) {
+        grid-column: 1/4;
+        grid-row: 2/3;
+      }
+      img:nth-child(3) {
+        grid-column: 4/8;
+        grid-row: 2/3;
+      }
+      img:nth-child(4) {
+        grid-column: 1/5;
+        grid-row: 3/4;
+      }
+      img:nth-child(5) {
+        grid-column: 5/8;
+        grid-row: 3/4;
+      }
+      img:last-child {
+        grid-column: 1/-1;
+        grid-row: 4/5;
+      }
+    }
+  }
+
+  @media screen and (width <= 430px) {
+    #lightgallery {
+      max-width: 95%;
+      grid-template-rows: 150px 375px 550px 450px 600px 150px;
+      img {
+        max-height: 100%;
+        height: 100%;
+      }
+      img:first-child {
+        grid-row: 1/2;
+        grid-column: 1/-1;
+      }
+      img:nth-child(2) {
+        grid-row: 2/3;
+        grid-column: 1/-1;
+      }
+      img:nth-child(3) {
+        grid-column: 1/-1;
+        grid-row: 3/4;
+      }
+      img:nth-child(4) {
+        grid-row: 4/5;
+        grid-column: 1/-1;
+      }
+      img:nth-child(5) {
+        grid-column: 1/-1;
+        grid-row: 5/6;
+      }
+      img:nth-child(6) {
+        grid-column: 1/-1;
+        grid-row: 6/7;
+      }
+    }
+  }
+</style>
+
+<h2 id="slider">slider</h2>
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css
+"
+/>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js
+"></script>
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/lightgallery/css/lightgallery-bundle.min.css"
+/>
+<script src="https://cdn.jsdelivr.net/npm/lightgallery/lightgallery.umd.min.js"></script>
+
+
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    const lightbox = GLightbox({ selector: ".glightbox", loop: true });
+  });
+  document.addEventListener("DOMContentLoaded", () => {
+    let carouselEl = document.getElementById(" #carouselExample ");
+
+    
+    const carousel = new bootstrap.Carousel(carouselEl, {
+      interval: 50,
+    });
+
+    
+    carouselEl.addEventListener("slide.bs.carousel", (event) => {
+      const container = document.querySelector(".carousel-inner");
+      window.lightGallery(container, {
+        plugins: [lgThumbnail],
+        selector: ".lg-item",
+        escKey: true,
+      });
+    });
+  });
+</script>
+
+
+
+
+
+<div id="carouselExample" class="carousel slide" data-bs-ride="carousel" style="width: fit-content;">
+  <div class="carousel-inner" style="width: fit-content;">
+    
+    <div class="carousel-item active">
+        
+      
+      <a
+        data-src="/images/post-1/vertical_hu_a44f0217a7467265.webp"
+        href="/images/post-1/vertical_hu_a44f0217a7467265.webp"
+        class="lg-item glightbox"
+      >
+        
+      </a>
+      
+    </div>
+    
+    <div class="carousel-item ">
+        
+      
+      <a
+        data-src="/images/post-1/vertical-2_hu_2d2433fe91c4477f.webp"
+        href="/images/post-1/vertical-2_hu_2d2433fe91c4477f.webp"
+        class="lg-item glightbox"
+      >
+        
+      </a>
+      
+    </div>
+    
+    <div class="carousel-item ">
+        
+      
+      <a
+        data-src="/images/post-1/Bilbao_collage_1_hu_54d2d5c8e7d00f35.webp"
+        href="/images/post-1/Bilbao_collage_1_hu_54d2d5c8e7d00f35.webp"
+        class="lg-item glightbox"
+      >
+        
+      </a>
+      
+    </div>
+    
+  </div>
+  <button
+    class="carousel-control-prev"
+    type="button"
+    data-bs-target="#carouselExample"
+    data-bs-slide="prev"
+  >
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button
+    class="carousel-control-next"
+    type="button"
+    data-bs-target="#carouselExample"
+    data-bs-slide="next"
+  >
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+
+
+<style>
+  .carousel-item {
+    .lg-item > img {
+      height: 400px;
+    }
+  }
+</style>]]></description>
+</item>
+</channel>
+</rss>

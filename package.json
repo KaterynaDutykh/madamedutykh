@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "autoprefixer": "^10.4.21",
+    "glightbox": "^3.3.1",
+    "postcss": "^8.5.3",
+    "postcss-cli": "^11.0.1"
+  }
+}
