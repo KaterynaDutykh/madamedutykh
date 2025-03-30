@@ -2,68 +2,68 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://localhost:1313/Madame-Dutykh/en/about/</loc><lastmod>2024-09-18T00:00:00&#43;00:00</lastmod><xhtml:link
+            <loc>http://example.org/en/about/</loc><lastmod>2024-09-18T00:00:00&#43;00:00</lastmod><xhtml:link
                         rel="alternate"
                         hreflang="fr"
-                        href="http://localhost:1313/Madame-Dutykh/fr/about/"
+                        href="http://example.org/fr/about/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="ru"
-                        href="http://localhost:1313/Madame-Dutykh/ru/about/"
+                        href="http://example.org/ru/about/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/Madame-Dutykh/en/about/"
+                    href="http://example.org/en/about/"
                     /></url><url>
-            <loc>http://localhost:1313/Madame-Dutykh/en/posts/</loc><lastmod>2025-03-26T19:41:45&#43;05:30</lastmod><xhtml:link
+            <loc>http://example.org/en/posts/</loc><lastmod>2025-03-26T19:41:45&#43;05:30</lastmod><xhtml:link
                         rel="alternate"
                         hreflang="fr"
-                        href="http://localhost:1313/Madame-Dutykh/fr/posts/"
+                        href="http://example.org/fr/posts/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="ru"
-                        href="http://localhost:1313/Madame-Dutykh/ru/posts/"
+                        href="http://example.org/ru/posts/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/Madame-Dutykh/en/posts/"
+                    href="http://example.org/en/posts/"
                     /></url><url>
-            <loc>http://localhost:1313/Madame-Dutykh/en/</loc><lastmod>2025-03-26T19:41:18&#43;05:30</lastmod><xhtml:link
+            <loc>http://example.org/en/</loc><lastmod>2025-03-26T19:41:18&#43;05:30</lastmod><xhtml:link
                         rel="alternate"
                         hreflang="fr"
-                        href="http://localhost:1313/Madame-Dutykh/fr/"
+                        href="http://example.org/fr/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="ru"
-                        href="http://localhost:1313/Madame-Dutykh/ru/"
+                        href="http://example.org/ru/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/Madame-Dutykh/en/"
+                    href="http://example.org/en/"
                     /></url><url>
-            <loc>http://localhost:1313/Madame-Dutykh/en/categories/</loc><xhtml:link
+            <loc>http://example.org/en/categories/</loc><xhtml:link
                         rel="alternate"
                         hreflang="fr"
-                        href="http://localhost:1313/Madame-Dutykh/fr/categories/"
+                        href="http://example.org/fr/categories/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="ru"
-                        href="http://localhost:1313/Madame-Dutykh/ru/categories/"
+                        href="http://example.org/ru/categories/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/Madame-Dutykh/en/categories/"
+                    href="http://example.org/en/categories/"
                     /></url><url>
-            <loc>http://localhost:1313/Madame-Dutykh/en/tags/</loc><xhtml:link
+            <loc>http://example.org/en/tags/</loc><xhtml:link
                         rel="alternate"
                         hreflang="fr"
-                        href="http://localhost:1313/Madame-Dutykh/fr/tags/"
+                        href="http://example.org/fr/tags/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="ru"
-                        href="http://localhost:1313/Madame-Dutykh/ru/tags/"
+                        href="http://example.org/ru/tags/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:1313/Madame-Dutykh/en/tags/"
+                    href="http://example.org/en/tags/"
                     /></url></urlset>
