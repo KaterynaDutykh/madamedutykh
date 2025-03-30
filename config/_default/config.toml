@@ -1,5 +1,5 @@
 # Core settings from config.toml
-baseURL = "http://example.org/"
+baseURL = "https://katerynadutykh.github.io/madame-dutykh/"
 title = "Madame Dutykh"
 theme = "LoveIt"  # Ensure the theme is specified
 defaultContentLanguage = 'en'
