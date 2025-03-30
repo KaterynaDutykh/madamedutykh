@@ -1,1 +1,7 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Tags - Tag - Madame Dutykh Blog</title><link>https://ShuvamKhamrui223.github.io/en/tags/</link><description>Tags - Tag - Madame Dutykh Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://ShuvamKhamrui223.github.io/en/tags/" rel="self" type="application/rss+xml"/></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - Tag - Madame Dutykh Blog</title>
+        <link>http://localhost:1313/Madame-Dutykh/en/tags/</link>
+        <description>Tags - Tag - Madame Dutykh Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="http://localhost:1313/Madame-Dutykh/en/tags/" rel="self" type="application/rss+xml" /></channel>
+</rss>

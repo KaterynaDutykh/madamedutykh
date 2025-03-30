@@ -1,1 +1,9 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Madame Dutykh Blog</title><link>https://ShuvamKhamrui223.github.io/en/</link><description>Journeys, Reflections, and Life Abroad</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 26 Mar 2025 19:41:18 +0530</lastBuildDate><atom:link href="https://ShuvamKhamrui223.github.io/en/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Madame Dutykh Blog</title>
+        <link>http://localhost:1313/Madame-Dutykh/en/</link>
+        <description>Journeys, Reflections, and Life Abroad</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 26 Mar 2025 19:41:18 &#43;0530</lastBuildDate>
+            <atom:link href="http://localhost:1313/Madame-Dutykh/en/index.xml" rel="self" type="application/rss+xml" />
+        </channel>
+</rss>
