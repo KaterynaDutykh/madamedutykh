@@ -126,9 +126,9 @@ publishDir = "docs"
       paginate = 6
 
   [params.social]
-    Linkedin = "https://www.linkedin.com/in/kateryna-dutykh/"
-    Facebook = "/https://www.facebook.com/ekateryna.d/"
-    Instagram = "/https://www.instagram.com/kateryna.dutykh/"
+    Linkedin = "/kateryna-dutykh/"
+    Facebook = "/ekateryna.d/"
+    Instagram = "/kateryna.dutykh/"
     # Add other social links as needed
 
   [params.page]
