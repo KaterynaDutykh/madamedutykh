@@ -2,19 +2,19 @@
       weight = 1
       identifier = "posts"
       name = "Статьи"
-      url = "/posts/"
+      url = "/ru/posts/"
     [[menu.main]]
       weight = 2
       identifier = "about"
       name = "Про блог"
-      url = "/about/"
+      url = "/ru/about/"
     [[menu.main]]
       weight = 3
       identifier = "tags"
       name = "Тэги"
-      url = "/tags/"
+      url = "/ru/tags/"
     [[menu.main]]
       weight = 4
       identifier = "categories"
       name = "Категории"
-      url = "/categories/"
+      url = "/ru/categories/"
