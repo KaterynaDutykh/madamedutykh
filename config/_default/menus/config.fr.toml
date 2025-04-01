@@ -2,19 +2,19 @@
       weight = 1
       identifier = "posts"
       name = "Postes"
-      url = "/fr/posts/"
+      url = "posts/"
  [[menu.main]]
       weight = 2
       identifier = "about"
       name = "À propos"
-      url = "/fr/about/"
+      url = "about/"
  [[menu.main]]
       weight = 3
       identifier = "tags"
       name = "Balises"
-      url = "/fr/tags/"
+      url = "tags/"
  [[menu.main]]
       weight = 4
       identifier = "categories"
       name = "Catégories"
-      url = "/fr/categories/"
+      url = "categories/"

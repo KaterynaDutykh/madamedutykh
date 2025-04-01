@@ -1,7 +1,1 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Tags - Tag - Madame Dutykh Blog</title>
-        <link>https://katerynadutykh.github.io/madamedutykh/en/tags/</link>
-        <description>Tags - Tag - Madame Dutykh Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://katerynadutykh.github.io/madamedutykh/en/tags/" rel="self" type="application/rss+xml" /></channel>
-</rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Tags - Tag - Madame Dutykh Blog</title><link>https://katerynadutykh.github.io/en/tags/</link><description>Tags - Tag - Madame Dutykh Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://katerynadutykh.github.io/en/tags/" rel="self" type="application/rss+xml"/></channel></rss>
