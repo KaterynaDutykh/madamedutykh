@@ -23,21 +23,21 @@ publishDir = "docs"
     title = "Madame Dutykh"
     languageCode = "en"
     languageName = "English"
-    contentDir = "content"
+    contentDir = "content/en"
    
   [languages.ru]
     weight = 2
     title = "Madame Dutykh"
     languageCode = "ru"
     languageName = "Русский"
-    contentDir = "content"
+    contentDir = "content/ru"
     
   [languages.fr]
     weight = 3
     title = "Madame Dutykh"
     languageCode = "fr"
     languageName = "Français"
-    contentDir = "content"
+    contentDir = "content/fr"
     
 
 # From hugo.toml
