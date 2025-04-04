@@ -43,7 +43,7 @@ While the sense of novelty hasn't worn off, the colors are still vivid and the l
 {{< style >}}
  <div style="display: flex; align-items: center;">
     <div style="flex: 0 0 45%;">
-        {{< figure src="/images/post-6-new-chapter-of-life/Abi-Dabi-view-towers.JPG">}}
+        {{< figure src="/images/post-6-new-chapter-of-life/Abou-Dhabi-view-towers.JPG">}}
     </div>
        <div style="flex: 1; margin-left: 20px;"> <!-- Отступ справа от текста -->
        <p> 1. You are officially part of the place once you have a resident card. Without that card, you are just a tourist. Having a resident ID allows you to rent property, open a bank account and get a local phone number. 
@@ -64,7 +64,6 @@ While the sense of novelty hasn't worn off, the colors are still vivid and the l
  <div style="display: flex; align-items: center;">
        <div style="flex: 1; margin-right: 20px;"> <!-- Отступ справа от текста -->
         <p> Driving culture. Drivers may ignore the "stop" sign, and change lanes (sometimes two or three at once), and forget to use the turn signal. In residental areas, you might see someone parking on the opposite side of the road, ant other cars calmly driving around them. Or, someone reversing at an intersection to fit in the another lane, despite having two other cars behind them. 
-        
         In some places, there are no sidewalks, so pedestrians share the road with cars. At first, I was scared to walk like that with a stroller and a child. Now, I have adapted, and my axiety has decreased because it has become clear that this is just way of life. Drivers are generally tolerant of pedastrians and carefully drive around them or stop and wait until they can continue driving. However, they are less patient with other drivers at trafic lights or trafic jams, and may honk right under a "no honking" sign.  
         </p>
     </div>

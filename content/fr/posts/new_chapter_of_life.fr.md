@@ -43,7 +43,7 @@ Tant que le sentiment de nouveauté n’a pas disparu, tout semble plus intense:
 {{< style >}}
  <div style="display: flex; align-items: center;">
     <div style="flex: 0 0 45%;">
-        {{< figure src="/images/Abi-Dabi-view-towers.JPG">}}
+        {{< figure src="/images/post-6-new-chapter-of-life/Abou-Dhabi-view-towers.JPG">}}
     </div>
        <div style="flex: 1; margin-left: 20px;"> <!-- Отступ справа от текста -->
        <p> 1. On fait officiellement partie de cet endroit seulement si l'on possède une carte de résident. Sans elle, on reste vu comme un simple touriste, même si on vit ici pendant des mois. Avoir une carte de résident chqnge tout: on peut louer un logement, d"ouvrir un compte bancaire et d'obtenir un numéro de téléphone local. 
@@ -64,12 +64,11 @@ Tant que le sentiment de nouveauté n’a pas disparu, tout semble plus intense:
  <div style="display: flex; align-items: center;">
        <div style="flex: 1; margin-right: 20px;"> <!-- Отступ справа от текста -->
         <p> Culture de la route. Les conducteurs peuvent ignorer les panneaux "stop", changer de voie (parfois même deux ou trois à la fois), sans utiliser les clignotants. Dans les quartiers résidentiels, vous pouvez rencontrer une situation où quelqu'un se gare du côté opposé de la circulation, et les autres voitures le contournent tranquillement. Ou encore, quelqu'un fait marche arrière à un carrefour pour se mettre dans l'autre sens, même s'il y a déjà deux autres voitures derrière lui. 
-        
         Dans certains endroits, il n'y a pas de trottoirs, donc les piétons utilisent la même route que les voitures. Au début, j'avais peur de marcher comme ça avec la poussette et mon enfant. Maintenant, je me suis adaptée, l'angoisse est devenu plus faible, car il est devenu clair que c’est juste comme ça ici. Les conducteurs sont très tolérants avec les piétons: ils ralentissent, les contournent doucement ou s’arrêtent pour les laisser passer. Mais on ne peut pas en dire autant de leur tolérance envers les autres voitures aux feux de circulation ou dans un embouteillage, car ils peuvent klaxonner juste sous le panneau «klaxon interdit».
         </p>
     </div>
     <div style="flex: 0 0 45%;">
-        {{< figure src="/images/Abu-Dabi-Al-Qana.JPG">}}
+        {{< figure src="/images/post-6-new-chapter-of-life/Abu-Dabi-Al-Qana.JPG">}}
     </div>
 </div>
 {{< /style >}}

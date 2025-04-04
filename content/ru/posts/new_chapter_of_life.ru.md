@@ -43,7 +43,7 @@ __Обалдеть!__
 {{< style >}}
  <div style="display: flex; align-items: center;">
     <div style="flex: 0 0 45%;">
-        {{< figure src="/images/post-6-new-chapter-of-life/Abi-Dabi-view-towers.JPG">}}
+        {{< figure src="/images/post-6-new-chapter-of-life/Abou-Dhabi-view-towers.JPG">}}
     </div>
        <div style="flex: 1; margin-left: 20px;"> <!-- Отступ справа от текста -->
        <p> 1. Без карты резидента, ты просто турист. Наличие ID резидента позволяет снять жилье, открыть банковский счет и иметь местный номер мобильного телефона.
