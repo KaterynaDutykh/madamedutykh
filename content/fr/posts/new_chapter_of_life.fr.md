@@ -56,9 +56,7 @@ Tant que le sentiment de nouveauté n’a pas disparu, tout semble plus intense:
 </div>
 {{< /style >}}
 
-4. La ville est bien éclairée. Parfois, elle est même incroyablement lumineuse. Nous n'avons pas encore installé de rideux, et à la nuit, on peut facilement se déplacer dans l'appartement sans allumer la lumière. 
-
-C'est surprenant, surtout quand depuis décembre de l'anée dernière, dans notre ville en France, l’éclairage public s’éteignait pile à minuit. Et là...c'était la nuit totale. Il semblait qu'il n'y avait personne dans les environs. Les habitants qui devaient sortir à 3 ou 4 heures du matin pour aller travailler disaient que ça faisait carrément peur de marcher dehors.
+4. La ville est bien éclairée. Parfois, elle est même incroyablement lumineuse. Nous n'avons pas encore installé de rideux, et à la nuit, on peut facilement se déplacer dans l'appartement sans allumer la lumière. C'est surprenant, surtout quand depuis décembre de l'anée dernière, dans notre ville en France, l’éclairage public s’éteignait pile à minuit. Et là...c'était la nuit totale. Il semblait qu'il n'y avait personne dans les environs. Les habitants qui devaient sortir à 3 ou 4 heures du matin pour aller travailler disaient que ça faisait carrément peur de marcher dehors.
 
 5. Sécurité. L'Abou Dhabi fait partie des dix villes les plus sûres au monde. Il n’y a pas ici de « quartier à éviter», et les enfants de plus de 12 ans peuvent aller à l’école, se promener et prendre l’ascenseur en toute sécurité.
 

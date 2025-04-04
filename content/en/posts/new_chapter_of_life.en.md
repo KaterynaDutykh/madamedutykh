@@ -43,7 +43,7 @@ While the sense of novelty hasn't worn off, the colors are still vivid and the l
 {{< style >}}
  <div style="display: flex; align-items: center;">
     <div style="flex: 0 0 45%;">
-        {{< figure src="/images/Abi-Dabi-view-towers.JPG">}}
+        {{< figure src="/images/post-6-new-chapter-of-life/Abi-Dabi-view-towers.JPG">}}
     </div>
        <div style="flex: 1; margin-left: 20px;"> <!-- Отступ справа от текста -->
        <p> 1. You are officially part of the place once you have a resident card. Without that card, you are just a tourist. Having a resident ID allows you to rent property, open a bank account and get a local phone number. 
@@ -69,7 +69,7 @@ While the sense of novelty hasn't worn off, the colors are still vivid and the l
         </p>
     </div>
     <div style="flex: 0 0 45%;">
-        {{< figure src="/images/Abu-Dabi-Al-Qana.JPG">}}
+        {{< figure src="/images/post-6-new-chapter-of-life/Abu-Dabi-Al-Qana.JPG">}}
     </div>
 </div>
 {{< /style >}}
