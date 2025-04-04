@@ -2,6 +2,19 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>https://katerynadutykh.github.io/madamedutykh/en/posts/new_chapter_of_life/</loc><lastmod>2025-04-02T00:00:00&#43;00:00</lastmod><xhtml:link
+                        rel="alternate"
+                        hreflang="fr"
+                        href="https://katerynadutykh.github.io/madamedutykh/fr/posts/new_chapter_of_life/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="ru"
+                        href="https://katerynadutykh.github.io/madamedutykh/ru/posts/new_chapter_of_life/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://katerynadutykh.github.io/madamedutykh/en/posts/new_chapter_of_life/"
+                    /></url><url>
             <loc>https://katerynadutykh.github.io/madamedutykh/en/about/</loc><lastmod>2024-09-18T00:00:00&#43;00:00</lastmod><xhtml:link
                         rel="alternate"
                         hreflang="fr"
@@ -41,7 +54,9 @@
                     hreflang="en"
                     href="https://katerynadutykh.github.io/madamedutykh/en/"
                     /></url><url>
-            <loc>https://katerynadutykh.github.io/madamedutykh/en/categories/</loc><xhtml:link
+            <loc>https://katerynadutykh.github.io/madamedutykh/en/categories/abu-dhabi/</loc><lastmod>2025-04-02T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://katerynadutykh.github.io/madamedutykh/en/tags/abu-dhabi/</loc><lastmod>2025-04-02T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://katerynadutykh.github.io/madamedutykh/en/categories/</loc><lastmod>2025-04-02T00:00:00&#43;00:00</lastmod><xhtml:link
                         rel="alternate"
                         hreflang="fr"
                         href="https://katerynadutykh.github.io/madamedutykh/fr/categories/"
@@ -54,7 +69,19 @@
                     hreflang="en"
                     href="https://katerynadutykh.github.io/madamedutykh/en/categories/"
                     /></url><url>
-            <loc>https://katerynadutykh.github.io/madamedutykh/en/tags/</loc><xhtml:link
+            <loc>https://katerynadutykh.github.io/madamedutykh/en/categories/emirates/</loc><lastmod>2025-04-02T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://katerynadutykh.github.io/madamedutykh/en/tags/life-in-uae/</loc><lastmod>2025-04-02T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://katerynadutykh.github.io/madamedutykh/en/categories/notes/</loc><lastmod>2025-04-02T00:00:00&#43;00:00</lastmod><xhtml:link
+                        rel="alternate"
+                        hreflang="fr"
+                        href="https://katerynadutykh.github.io/madamedutykh/fr/categories/notes/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://katerynadutykh.github.io/madamedutykh/en/categories/notes/"
+                    /></url><url>
+            <loc>https://katerynadutykh.github.io/madamedutykh/en/categories/personal-experience/</loc><lastmod>2025-04-02T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://katerynadutykh.github.io/madamedutykh/en/tags/</loc><lastmod>2025-04-02T00:00:00&#43;00:00</lastmod><xhtml:link
                         rel="alternate"
                         hreflang="fr"
                         href="https://katerynadutykh.github.io/madamedutykh/fr/tags/"
