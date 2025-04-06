@@ -29,15 +29,15 @@ library:
 seo:
   images: []
   # emirates, #life in uae, #abu-dhabi
----
 
+---
 
 __Wow!__
 
 …this is one of our reactions to what we see in Abu Dhabi.
 
 While the sense of novelty hasn't worn off, the colors are still vivid and the local nuances catch the eye with their distinctive features, I'd like to share some surprising moments that caught me off guard:
-
+<!--more-->
 ## Surprising moments of life in Abu Dhabi: cultural and everyday features
 
 {{< style >}}
@@ -80,7 +80,7 @@ While the sense of novelty hasn't worn off, the colors are still vivid and the l
 9. Also, the young moon in the sky is positioned horizontally, not vertically as we’re used to. And the Moon grows from bottom to top.
 <br>
 
-### Interesting household features 
+## Interesting household features 
 
 And some smaller details:
 

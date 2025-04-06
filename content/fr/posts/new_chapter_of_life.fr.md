@@ -3,7 +3,6 @@ title: "Un nouveau chapitre de la vie."
 translationKey: "New chapter of life"  # Ключ должен быть уникальным и постоянным
 date: 2023-04-24
 lastmod: 2025-04-04
-# type - этот параметр указывает на то, что пост относится к типу "post"
 type: "posts"
 weight: 1
 draft: false
@@ -28,16 +27,16 @@ library:
 
 seo:
   images: []
-  # эмираты, #жизнь в ОАЭ, #Абу-Даби
----
+  # Emirats, #Vie aux EAU, #Аbou Dhabi
 
+---
 
 __Incroyable!__
 
 …c’est l’une des premières réactions que nous avons eues en découvrant Abou Dhabi.
 
 Tant que le sentiment de nouveauté n’a pas disparu, tout semble plus intense: les couleurs sont vives, les contrastes, les petites particularités de la vie quotidienne. Je voudrais partager quelques moments qui m’ont surprise. Ce ne sont pas forcément des choses incroyables, mais plutôt des situations inattendues, auxquelles je ne m’attendais pas avant d’arriver:
-
+<!--more-->
 ## Moments étonnants de la vie à Abu Dhabi : aspects culturels et du quotidien
 
 {{< style >}}
@@ -58,7 +57,7 @@ Tant que le sentiment de nouveauté n’a pas disparu, tout semble plus intense:
 
 4. La ville est bien éclairée. Parfois, elle est même incroyablement lumineuse. Nous n'avons pas encore installé de rideux, et à la nuit, on peut facilement se déplacer dans l'appartement sans allumer la lumière. C'est surprenant, surtout quand depuis décembre de l'anée dernière, dans notre ville en France, l’éclairage public s’éteignait pile à minuit. Et là...c'était la nuit totale. Il semblait qu'il n'y avait personne dans les environs. Les habitants qui devaient sortir à 3 ou 4 heures du matin pour aller travailler disaient que ça faisait carrément peur de marcher dehors.
 
-5. Sécurité. L'Abou Dhabi fait partie des dix villes les plus sûres au monde. Il n’y a pas ici de « quartier à éviter», et les enfants de plus de 12 ans peuvent aller à l’école, se promener et prendre l’ascenseur en toute sécurité.
+5. Sécurité. L'Abou Dhabi fait partie des dix villes les plus sûres au monde. Il n’y a pas ici de «quartier à éviter», et les enfants de plus de 12 ans peuvent aller à l’école, se promener et prendre l’ascenseur en toute sécurité.
 
 6. {{< style >}}
  <div style="display: flex; align-items: center;">
@@ -80,7 +79,7 @@ Tant que le sentiment de nouveauté n’a pas disparu, tout semble plus intense:
 9.  De plus, la nouvelle lune dans le ciel apparaît horizontalement, et non verticalement comme nous en avons l'habitude. Et la lune grandit de bas en haut. 
 <br>
 
-### Caractéristiques intéressantes du quotidien
+## Caractéristiques intéressantes du quotidien
 
 Et consernant les petites choses :
 
