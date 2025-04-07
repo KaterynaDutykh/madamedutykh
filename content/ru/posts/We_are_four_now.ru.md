@@ -1,7 +1,7 @@
 ---
 title: "Теперь нас четверо!"
 translationKey: "Giving birth for the second time in Chambéry"  # Ключ должен быть уникальным и постоянным
-date: 2020-05-013
+date: 2020-05-13
 lastmod: 2025-04-07
 # type - этот параметр указывает на то, что пост относится к типу "post"
 type: "posts"
@@ -61,7 +61,7 @@ seo:
 {{< style >}}
  <div style="display: flex; align-items: center;">
     <div style="flex: 0 0 45%;">
-        {{< figure src="/images/post-8-we-are-four/IMG_20200413_154847.jpg">}}
+        {{< figure src="/images/post-8-we-are-four/IMG_20200413_115351.jpg">}}
     </div>
        <div style="flex: 1; margin-right: 20px;"> <!-- Отступ справа от текста -->
        <p> Так случилось, что с 14 марта во Франции был объявлен карантин, в связи с распространением вируса Covid-19. В целях безопасности родильное отделение максимально возможным образом изолировалось: 
