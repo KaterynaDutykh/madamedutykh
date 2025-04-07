@@ -87,7 +87,7 @@ Le pont de Subisuri, ou « pont blanc », à Bilbao est considéré comme le sym
 {{< /style >}}
 <br>
 
-Dans ma publication précédente, j'ai mentionné la **[période de déclin](https://github.com/Khan/KaTeX/tree/master/contrib/copy-tex)**, que la ville a autrefois traversée. Cependant, en 2015, Bilbao est devenu un modèle de transformation : d'un centre industriel, il s'est transformé en un hub culturel prospère, attirant des touristes et des architectes du monde entier. 
+Dans ma publication précédente, j'ai mentionné la **[période de déclin](https://katerynadutykh.github.io/madamedutykh/fr/posts/bilbao/)**, que la ville a autrefois traversée. Cependant, en 2015, Bilbao est devenu un modèle de transformation : d'un centre industriel, il s'est transformé en un hub culturel prospère, attirant des touristes et des architectes du monde entier. 
 
 ## Photogalerie
 
