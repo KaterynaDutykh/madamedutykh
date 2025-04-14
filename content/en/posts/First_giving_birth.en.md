@@ -1,7 +1,7 @@
 ---
 title: "My first experience of giving birth in Chambéry."
 translationKey: "Giving birth for the first time in Chambéry"  # Ключ должен быть уникальным и постоянным
-date: 22017-12-08
+date: 2017-12-08
 lastmod: 2025-04-10
 # type - этот параметр указывает на то, что пост относится к типу "post"
 type: "posts"
@@ -34,9 +34,9 @@ seo:
 
 ## The French approach to pregnancy and its management.
 
-In today's post, I would like to share my recent experience of pregnancy and childbirth in Chambéry, France. I’ll skip unnecessary details, so this article is also suitable for men.
+In today's post, I would like to share my recent pregnancy and childbirth experience in Chambéry, France. I’ll skip unnecessary details, so this article is suitable for men.
 
-First of all, I noticed that pregnancy in France is approached in a more relaxed and natural way than what I’ve heard from friends and family in Ukraine. Unlike in Ukraine, where the healthcare system often tries to "save" or "preserve" a pregnancy, here it is not seen as something that must be controlled from day one. 
+One of the first thing that really caught my attention was how relaxed and natural the attitude towards pregnancy is in France — especially compared to the stories I’ve heard from friends and family back in Ukraine. Unlike in Ukraine, where the healthcare system often tries to "save" or "preserve" a pregnancy, here, it is not seen as something that must be controlled from day one. 
 
 A woman’s social life, as a rule, doesn’t change much. More often, until the end of the first trimester, doctors don’t take the pregnancy too seriously. I mean that everything is expected to go naturally, and unless the woman is in a truly critical condition, nobody will hospitalize her “for observation” at this stage. No special check-ups or hormone therapy are prescribed.
 
@@ -47,22 +47,22 @@ A woman’s social life, as a rule, doesn’t change much. More often, until the
         {{< figure src="/images/post-7-first-giving-birth/ChatGPT_IMG_37_21.png">}}
     </div>
        <div style="flex: 1; margin-left: 20px;"> <!-- Отступ справа от текста -->
-       <p> When I suspected that I might be pregnant, I went to see my general practitioner. She, in turn, reffered me to a laboratory, and once the official test confirmed it, she formally registered my pregnancy and started to monitor it. Monthly blood tests became part of the routine, checking various health indicators. Over the pregnancy, I had thee ultrasounds, all done at the gynecologist's office — each accompanied by a generous set of printed images of the baby-to-be. My GP followed the pregnancy up until the eighth month, after which I was transferred to the care of an obstetrician-gynecologist for the final two months.  </p>
+       <p> When I suspected I might be pregnant, I went to see my general practitioner. She, in turn, referred me to a laboratory, and once the official test confirmed it, she formally registered my pregnancy and started to monitor it. Monthly blood tests became part of the routine, checking various health indicators. Over the pregnancy, I had thee ultrasounds, all done at the gynecologist's office — each accompanied by a generous set of printed images of the baby-to-be. My GP followed the pregnancy up until the eighth month, after which I was transferred to the care of an obstetrician-gynecologist for the final two months.  </p>
     </div>
 </div>
 {{< /style >}}
 
 ## Bureaucratic magic.
 
-All my worries and anxieties —  about not knowing whom to contact, what steps I needed to take, whether my questions might seems naïve, and how I would communicate with doctors during labor — turned out to be entirely unnecessary.
+All my worries and anxieties —  about not knowing whom to contact, what steps I needed to take, whether my questions might seem naïve, and how I would communicate with doctors during labor — turned out to be entirely unnecessary.
 
 The therapist's declaration of pregnancy is a kind of launch button for the bureaucratic machinery. Our insurance agents, social services, the departmental authorities, and other involved parties were all notified.
 
-In reality, there was no need to ask extra questions or scramble for information — the system was already several steps ahead of me. I received a pregnancy dossier from the departmental office, containing all the practical information, including legal aspects.
+In reality, there was no need to ask extra questions or scramble for information — the system was already several steps ahead of me. I received a pregnancy dossier from the departmental office containing all the practical information, including legal aspects.
 
-The insurance company sent a letter detailing the percentage of costs they would cover for tests and check-ups. Even a social worker contacted me directly to schedule a meeting and explain the various benefits and forms of assistance that we might be entitled to — including information on childcare options, nursery services, and parent-child community centers.
+The insurance company sent a letter detailing the percentage of costs they would cover for tests and check-ups. Even a social worker contacted me directly to schedule a meeting and explain the various benefits and forms of assistance we might be entitled to — including information on childcare options, nursery services, and parent-child community centers.
 
-## Midwives and epidural anesthesia
+## Midwives and epidural anesthesia.
 
 Following the second-trimester ultrasound, the gynecologist recommended I make an appointment with a midwife who runs prenatal preparation courses. She gave me a list of all the midwives in our department and even suggested the best ones to contact. Unsurprisingly, I was left with very few questions — and those I still had were answered during the sessions with the midwife.
 
@@ -84,7 +84,7 @@ As I later learned, the day before my due date, I was supposed to call the hospi
 
 I didn’t do this because I felt fine, and it was Saturday, so I didn’t feel like going. However, on Monday I went in to ask what the next steps were — and ended up staying there. The doctors decided to induce labor. I still don’t know if it was absolutely necessary, but even with the induction, the baby was in no rush to arrive. In the end, I had to use anesthesia — the contractions were almost constant, and it was exhausting.
 
-### Photos of the Maternity Room
+### Photos of the Maternity Room.
 
 {{< style >}}
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px;">
@@ -131,19 +131,19 @@ The meals were three times a day and varied. I never went hungry, but once the m
 
 {{< style >}}
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px;">
-  <div style="flex: 1 1 calc(20% - 10px);">
+  <div style="flex: 1 1 calc(32% - 10px);">
     {{< figure src="/images/post-7-first-giving-birth/2017_maternite_chambery_repas_1.jpg" alt="repas_maternity_chambery_2017" >}}
   </div>
-  <div style="flex: 1 1 calc(20% - 10px);">
+  <div style="flex: 1 1 calc(32% - 10px);">
     {{< figure src="/images/post-7-first-giving-birth/2017_maternite_chambery_repas_2.jpg" alt="repas_maternity_chambery_2017" >}}
   </div>
-  <div style="flex: 1 1 calc(20% - 10px);">
+  <div style="flex: 1 1 calc(32% - 10px);">
     {{< figure src="/images/post-7-first-giving-birth/2017_maternite_chambery_repas_3.jpg" alt="repas_maternity_chambery_2017" >}}
   </div>
-  <div style="flex: 1 1 calc(20% - 10px);">
+  <div style="flex: 1 1 calc(48% - 10px);">
     {{< figure src="/images/post-7-first-giving-birth/2017_maternite_chambery_repas_4.jpg" alt="repas_maternity_chambery_2017" >}}
   </div>
-  <div style="flex: 1 1 calc(20% - 10px);">
+  <div style="flex: 1 1 calc(48% - 10px);">
     {{< figure src="/images/post-7-first-giving-birth/2017_maternite_chambery_repas_5.jpg" alt="repas_maternity_chambery_2017" >}}
   </div>
 </div>

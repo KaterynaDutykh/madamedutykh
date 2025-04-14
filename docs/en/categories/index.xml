@@ -3,47 +3,7 @@
         <title>Categories - Category - Madame Dutykh Blog</title>
         <link>https://katerynadutykh.github.io/madamedutykh/en/categories/</link>
         <description>Categories - Category - Madame Dutykh Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 10 Apr 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://katerynadutykh.github.io/madamedutykh/en/categories/" rel="self" type="application/rss+xml" /><item>
-    <title>Chambéry</title>
-    <link>https://katerynadutykh.github.io/madamedutykh/en/categories/chamb%C3%A9ry/</link>
-    <pubDate>Thu, 10 Apr 2025 00:00:00 &#43;0000</pubDate>
-    <author>Author</author>
-    <guid>https://katerynadutykh.github.io/madamedutykh/en/categories/chamb%C3%A9ry/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>France</title>
-    <link>https://katerynadutykh.github.io/madamedutykh/en/categories/france/</link>
-    <pubDate>Thu, 10 Apr 2025 00:00:00 &#43;0000</pubDate>
-    <author>Author</author>
-    <guid>https://katerynadutykh.github.io/madamedutykh/en/categories/france/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>Notes</title>
-    <link>https://katerynadutykh.github.io/madamedutykh/en/categories/notes/</link>
-    <pubDate>Thu, 10 Apr 2025 00:00:00 &#43;0000</pubDate>
-    <author>Author</author>
-    <guid>https://katerynadutykh.github.io/madamedutykh/en/categories/notes/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>Personal Experience</title>
-    <link>https://katerynadutykh.github.io/madamedutykh/en/categories/personal-experience/</link>
-    <pubDate>Thu, 10 Apr 2025 00:00:00 &#43;0000</pubDate>
-    <author>Author</author>
-    <guid>https://katerynadutykh.github.io/madamedutykh/en/categories/personal-experience/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>Savoie</title>
-    <link>https://katerynadutykh.github.io/madamedutykh/en/categories/savoie/</link>
-    <pubDate>Thu, 10 Apr 2025 00:00:00 &#43;0000</pubDate>
-    <author>Author</author>
-    <guid>https://katerynadutykh.github.io/madamedutykh/en/categories/savoie/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 24 Apr 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://katerynadutykh.github.io/madamedutykh/en/categories/" rel="self" type="application/rss+xml" /><item>
     <title>Abu-Dhabi</title>
     <link>https://katerynadutykh.github.io/madamedutykh/en/categories/abu-dhabi/</link>
     <pubDate>Mon, 24 Apr 2023 00:00:00 &#43;0000</pubDate>
@@ -57,6 +17,46 @@
     <pubDate>Mon, 24 Apr 2023 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
     <guid>https://katerynadutykh.github.io/madamedutykh/en/categories/emirates/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Notes</title>
+    <link>https://katerynadutykh.github.io/madamedutykh/en/categories/notes/</link>
+    <pubDate>Mon, 24 Apr 2023 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://katerynadutykh.github.io/madamedutykh/en/categories/notes/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Personal Experience</title>
+    <link>https://katerynadutykh.github.io/madamedutykh/en/categories/personal-experience/</link>
+    <pubDate>Mon, 24 Apr 2023 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://katerynadutykh.github.io/madamedutykh/en/categories/personal-experience/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Chambéry</title>
+    <link>https://katerynadutykh.github.io/madamedutykh/en/categories/chamb%C3%A9ry/</link>
+    <pubDate>Fri, 08 Dec 2017 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://katerynadutykh.github.io/madamedutykh/en/categories/chamb%C3%A9ry/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>France</title>
+    <link>https://katerynadutykh.github.io/madamedutykh/en/categories/france/</link>
+    <pubDate>Fri, 08 Dec 2017 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://katerynadutykh.github.io/madamedutykh/en/categories/france/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Savoie</title>
+    <link>https://katerynadutykh.github.io/madamedutykh/en/categories/savoie/</link>
+    <pubDate>Fri, 08 Dec 2017 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://katerynadutykh.github.io/madamedutykh/en/categories/savoie/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>
