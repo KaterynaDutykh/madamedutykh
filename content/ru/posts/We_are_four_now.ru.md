@@ -128,3 +128,8 @@ seo:
 На 6 день после рождения был плановый визит у педиатра. 
 
 А дальше, жизнь стремительно закрутилась, не смотря на строгий карантин.
+
+{{< style align="center" >}}
+{{< figure src="/images/post-8-we-are-four/Navy Blue Foot Prints Pregnancy Birth Certificate.png" >}}
+{{< /style >}}
+<br>

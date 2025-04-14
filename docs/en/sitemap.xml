@@ -2,6 +2,15 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>https://katerynadutykh.github.io/madamedutykh/en/posts/first_giving_birth/</loc><lastmod>2025-04-10T00:00:00&#43;00:00</lastmod><xhtml:link
+                        rel="alternate"
+                        hreflang="ru"
+                        href="https://katerynadutykh.github.io/madamedutykh/ru/posts/first_giving_birth/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://katerynadutykh.github.io/madamedutykh/en/posts/first_giving_birth/"
+                    /></url><url>
             <loc>https://katerynadutykh.github.io/madamedutykh/en/posts/new_chapter_of_life/</loc><lastmod>2025-04-02T00:00:00&#43;00:00</lastmod><xhtml:link
                         rel="alternate"
                         hreflang="fr"
@@ -27,6 +36,72 @@
                     rel="alternate"
                     hreflang="en"
                     href="https://katerynadutykh.github.io/madamedutykh/en/about/"
+                    /></url><url>
+            <loc>https://katerynadutykh.github.io/madamedutykh/en/categories/</loc><lastmod>2025-04-10T00:00:00&#43;00:00</lastmod><xhtml:link
+                        rel="alternate"
+                        hreflang="fr"
+                        href="https://katerynadutykh.github.io/madamedutykh/fr/categories/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="ru"
+                        href="https://katerynadutykh.github.io/madamedutykh/ru/categories/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://katerynadutykh.github.io/madamedutykh/en/categories/"
+                    /></url><url>
+            <loc>https://katerynadutykh.github.io/madamedutykh/en/categories/chamb%C3%A9ry/</loc><lastmod>2025-04-10T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://katerynadutykh.github.io/madamedutykh/en/tags/chamb%C3%A9ry/</loc><lastmod>2025-04-10T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://katerynadutykh.github.io/madamedutykh/en/categories/france/</loc><lastmod>2025-04-10T00:00:00&#43;00:00</lastmod><xhtml:link
+                        rel="alternate"
+                        hreflang="fr"
+                        href="https://katerynadutykh.github.io/madamedutykh/fr/categories/france/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://katerynadutykh.github.io/madamedutykh/en/categories/france/"
+                    /></url><url>
+            <loc>https://katerynadutykh.github.io/madamedutykh/en/tags/life-the-french-way/</loc><lastmod>2025-04-10T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://katerynadutykh.github.io/madamedutykh/en/categories/notes/</loc><lastmod>2025-04-10T00:00:00&#43;00:00</lastmod><xhtml:link
+                        rel="alternate"
+                        hreflang="fr"
+                        href="https://katerynadutykh.github.io/madamedutykh/fr/categories/notes/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://katerynadutykh.github.io/madamedutykh/en/categories/notes/"
+                    /></url><url>
+            <loc>https://katerynadutykh.github.io/madamedutykh/en/categories/personal-experience/</loc><lastmod>2025-04-10T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>https://katerynadutykh.github.io/madamedutykh/en/categories/savoie/</loc><lastmod>2025-04-10T00:00:00&#43;00:00</lastmod><xhtml:link
+                        rel="alternate"
+                        hreflang="fr"
+                        href="https://katerynadutykh.github.io/madamedutykh/fr/categories/savoie/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://katerynadutykh.github.io/madamedutykh/en/categories/savoie/"
+                    /></url><url>
+            <loc>https://katerynadutykh.github.io/madamedutykh/en/tags/savoie/</loc><lastmod>2025-04-10T00:00:00&#43;00:00</lastmod><xhtml:link
+                        rel="alternate"
+                        hreflang="fr"
+                        href="https://katerynadutykh.github.io/madamedutykh/fr/tags/savoie/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://katerynadutykh.github.io/madamedutykh/en/tags/savoie/"
+                    /></url><url>
+            <loc>https://katerynadutykh.github.io/madamedutykh/en/tags/</loc><lastmod>2025-04-10T00:00:00&#43;00:00</lastmod><xhtml:link
+                        rel="alternate"
+                        hreflang="fr"
+                        href="https://katerynadutykh.github.io/madamedutykh/fr/tags/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="ru"
+                        href="https://katerynadutykh.github.io/madamedutykh/ru/tags/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://katerynadutykh.github.io/madamedutykh/en/tags/"
                     /></url><url>
             <loc>https://katerynadutykh.github.io/madamedutykh/en/posts/</loc><lastmod>2025-03-26T19:41:45&#43;05:30</lastmod><xhtml:link
                         rel="alternate"
@@ -56,41 +131,5 @@
                     /></url><url>
             <loc>https://katerynadutykh.github.io/madamedutykh/en/categories/abu-dhabi/</loc><lastmod>2025-04-02T00:00:00&#43;00:00</lastmod></url><url>
             <loc>https://katerynadutykh.github.io/madamedutykh/en/tags/abu-dhabi/</loc><lastmod>2025-04-02T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>https://katerynadutykh.github.io/madamedutykh/en/categories/</loc><lastmod>2025-04-02T00:00:00&#43;00:00</lastmod><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="https://katerynadutykh.github.io/madamedutykh/fr/categories/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="ru"
-                        href="https://katerynadutykh.github.io/madamedutykh/ru/categories/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://katerynadutykh.github.io/madamedutykh/en/categories/"
-                    /></url><url>
             <loc>https://katerynadutykh.github.io/madamedutykh/en/categories/emirates/</loc><lastmod>2025-04-02T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>https://katerynadutykh.github.io/madamedutykh/en/tags/life-in-uae/</loc><lastmod>2025-04-02T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>https://katerynadutykh.github.io/madamedutykh/en/categories/notes/</loc><lastmod>2025-04-02T00:00:00&#43;00:00</lastmod><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="https://katerynadutykh.github.io/madamedutykh/fr/categories/notes/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://katerynadutykh.github.io/madamedutykh/en/categories/notes/"
-                    /></url><url>
-            <loc>https://katerynadutykh.github.io/madamedutykh/en/categories/personal-experience/</loc><lastmod>2025-04-02T00:00:00&#43;00:00</lastmod></url><url>
-            <loc>https://katerynadutykh.github.io/madamedutykh/en/tags/</loc><lastmod>2025-04-02T00:00:00&#43;00:00</lastmod><xhtml:link
-                        rel="alternate"
-                        hreflang="fr"
-                        href="https://katerynadutykh.github.io/madamedutykh/fr/tags/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="ru"
-                        href="https://katerynadutykh.github.io/madamedutykh/ru/tags/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://katerynadutykh.github.io/madamedutykh/en/tags/"
-                    /></url></urlset>
+            <loc>https://katerynadutykh.github.io/madamedutykh/en/tags/life-in-uae/</loc><lastmod>2025-04-02T00:00:00&#43;00:00</lastmod></url></urlset>
