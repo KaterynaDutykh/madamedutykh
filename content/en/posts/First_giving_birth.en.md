@@ -178,6 +178,6 @@ Perhaps the French do something similar too, but in my case, everything was rath
 As for the financial aspect, all costs related to doctor visits, ultrasounds, and tests were covered by our insurance. What changed was the level of participation from the insurance companies. For example, from the starts of the pregnancy, the mandatory insurance covers 100% of the costs for the 7 mandatory check-ups, with everything else reimbursed at the usual rate: 70% by the mandatory insurance and 30% by supplementary insurance. Starting from the sixth month of pregnancy, the mandatory insurance covers all pregnancy-related expenses. The supplementary insurance only came into play during my stay in the hospital.
 
 {{< style align="center" >}}
-{{< figure src="/images/post-7-first-giving-birth/B_W_B_Birth_Announcement_Madame_Dutykh_17.jpg" >}}
+{{< figure src="/images/post-7-first-giving-birth/B_W_B_Birth_Announcement_Madame_Dutykh_17.png" >}}
 {{< /style >}}
 <br>
