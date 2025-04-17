@@ -160,3 +160,4 @@ publishDir = "docs"
 [markup]
   [markup.highlight]
     noClasses = false
+    unsafe = true
