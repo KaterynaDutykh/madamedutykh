@@ -65,6 +65,47 @@ seo:
 Естественно, мне было любопытно, что и как происходит на выборном участке, поэтому я составила компанию мужу.
 
 {{< style >}}
+<style>
+.flex-box {
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+  margin-bottom: 2em;
+}
+.flex-box .text {
+  flex: 1;
+}
+.flex-box .image {
+  flex: 0 0 45%;
+  text-align: center;
+}
+.flex-box .image img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+.flex-box .caption {
+  font-size: 0.8em;
+  margin-top: 0.5em;
+}
+</style>
+{{< /style >}}
+
+<div class="flex-box">
+  <!-- Левая часть: текст -->
+  <div class="text">
+    <p>Так вот, каждый, кто имеет право голосовать, приходит на свой участок со своим паспортом и карточкой избирателя. Наш участок находился в помещении детского садика, в небольшом зале. Было размещено всего 4 кабинки, которые в целом идентичны украинским.</p>
+  </div>
+
+  <!-- Правая часть: картинка и подпись -->
+  <div class="image">
+    <img src="/images/post-11-french-elections/img_20170423_141837.jpg" alt="Фото карточки избирателя">
+    <div class="caption">На оборотной стороне указаны личные данные избирателя, его номер в списке, место голосования и подпись/печать мэра</div>
+  </div>
+</div>
+
+{{< style >}}
 <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 2em;">
   <!-- Левая часть: текст -->
   <div style="flex: 1;">
