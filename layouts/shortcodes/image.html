@@ -1,3 +1,25 @@
+{{ $src := .Get "src" }}
+{{ $alt := .Get "alt" | default "" }}
+{{ $caption := .Get "caption" }}
+{{ $width := .Get "width" | default "45%" }}
+
+{{ with resources.Get $src }}
+  {{ with .Resize "800x webp q75" }}
+    <div style="flex: 0 0 {{ $width }}; text-align: center;">
+      <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}"
+           alt="{{ $alt }}" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" loading="lazy"/>
+      {{ if $caption }}
+        <div style="font-size: 0.8em; margin-top: 0.5em; color: #555;">{{ $caption }}</div>
+      {{ end }}
+    </div>
+  {{ end }}
+{{ end }}
+
+
+
+
+<!-- изначальный код в проекте
 {{ with resources.Get (.Get "src") }} {{ with .Resize (printf "400x webp q50" )
 }} <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}"
 alt="{{ $.Get "alt" }}" class="w-100" loading="lazy"/> {{ end }} {{ end }}
+-->
