@@ -8,7 +8,6 @@ languageCode= "en"
 paginaton.pagerSize = 6
 ignoreErrors = ["error-remote-getjson"]
 publishDir = "docs"
-googleAnalytics = "G-S717QS6K5W"
 
 # Remove or comment out incorrect themesDir
 # themesDir = "../.."  # Not needed unless themes are in a custom location
@@ -111,6 +110,13 @@ googleAnalytics = "G-S717QS6K5W"
       index = ""
       appID = ""
       searchKey = ""
+
+  [params.analytics]
+    enable = true
+
+  [params.analytics.google]
+    id = "G-S717QS6K5W" # <-- твой код GA4
+    anonymizeIP = true
 
   [params.home]
     rss = 10
