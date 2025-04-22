@@ -55,8 +55,7 @@ publishDir = "docs"
   title = "Madame Dutykh"
   description = "Journeys, Reflections, and Life Abroad"
   images = []
-  googleAnalytics = "G-S717QS6K5W"
-
+ 
 
   [params.header]
     desktopMode = "fixed"
