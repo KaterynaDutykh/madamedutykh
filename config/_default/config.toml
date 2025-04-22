@@ -8,7 +8,7 @@ languageCode= "en"
 paginaton.pagerSize = 6
 ignoreErrors = ["error-remote-getjson"]
 publishDir = "docs"
-
+googleAnalytics = "G-S717QS6K5W"
 
 # Remove or comment out incorrect themesDir
 # themesDir = "../.."  # Not needed unless themes are in a custom location
@@ -55,7 +55,7 @@ publishDir = "docs"
   title = "Madame Dutykh"
   description = "Journeys, Reflections, and Life Abroad"
   images = []
-  googleAnalytics = "G-S717QS6K5W"
+  
 
   [params.header]
     desktopMode = "fixed"
