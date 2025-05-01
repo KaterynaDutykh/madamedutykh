@@ -169,3 +169,6 @@ publishDir = "docs"
   [markup.highlight]
     noClasses = false
     unsafe = true
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
