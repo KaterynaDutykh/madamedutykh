@@ -66,10 +66,12 @@ seo:
 
 А от своей соседки, возраста моих родителей, я узнала, что многие хранят засушенные букетики целый год, как маленький амулет, напоминающий о чьём-то внимании и весеннем утре, когда мир снова стал чуть теплее.
 
+
 <div style="position: relative; padding-bottom: 177.78%; height: 0; overflow: hidden;">
-  <iframe src="https://youtube.com/shorts/QPueunwMmN0?feature=share" 
+  <iframe src="https://www.youtube.com/embed/QPueunwMmN0" 
           frameborder="0" 
           allowfullscreen 
           style="position: absolute; top:0; left:0; width:100%; height:100%;">
   </iframe>
 </div>
+
