@@ -68,11 +68,35 @@ seo:
 
 А от своей соседки, возраста моих родителей, я узнала, что многие хранят засушенные букетики целый год, как маленький амулет, напоминающий о чьём-то внимании и в память о майском утре, когда всё вокруг стало немного светлее.
 
-<div style="position: relative; padding-bottom: 150%; height: 0; overflow: hidden;">
+<style>
+  .responsive-yt-container {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 140%; /* по умолчанию для десктопа */
+    overflow: hidden;
+  }
+
+  .responsive-yt-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  /* Для экранов шириной 600px и меньше (мобильные) */
+  @media screen and (max-width: 600px) {
+    .responsive-yt-container {
+      padding-bottom: 177.78%; /* классическое 9:16 для Shorts */
+    }
+  }
+</style>
+
+<div class="responsive-yt-container">
   <iframe src="https://www.youtube.com/embed/QPueunwMmN0"
           frameborder="0"
-          allowfullscreen
-          style="position: absolute; top:0; left:0; width:100%; height:100%;">
+          allowfullscreen>
   </iframe>
 </div>
 
