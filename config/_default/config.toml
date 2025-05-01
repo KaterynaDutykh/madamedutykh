@@ -115,7 +115,7 @@ publishDir = "docs"
     enable = true
 
   [params.analytics.google]
-    id = "G-S717QS6K5W" # <-- твой код GA4
+    id = "G-S717QS6K5W" # <-- мой код GA4
     anonymizeIP = true
 
   [params.home]
@@ -134,7 +134,7 @@ publishDir = "docs"
       paginate = 6
 
   [params.social]
-    Linkedin = "kateryna-dutykh"
+    Linkedin = "http://linkedin.com/in/kateryna-dutykh"
     Facebook = "ekateryna.d"
     Instagram = "kateryna.dutykh"
     # Add other social links as needed
