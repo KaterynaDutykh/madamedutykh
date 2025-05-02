@@ -34,17 +34,17 @@ seo:
 
 ## Des défilés au symbole de tendresse
 
-Aujourd’hui, c’est le 1er mai. La Fête du Travail. Une fête avec une histoire particulière. Officiellement, elle est internationale, mais dans la mémoire des Ukrainiens, elle est très liée à l’époque soviétique. Peut-être pour cette raison, le 1er mai est maintenant juste un jour férié, sans grandes célébrations ni défilés.
+Aujourd’hui, c’est le 1er mai, la Fête du Travail. Une date chargée d’histoire. Officiellement, c’est une fête internationale, mais dans la mémoire des Ukrainiens, elle reste très liée à l’époque soviétique. Peut-être est-ce pour cela qu’elle est devenue, aujourd’hui, un simple jour férié — sans grandes célébrations ni défilés.
 
 J’ai grandi en Ukraine après l’époque soviétique. Mais même si le calendrier change, l’ancien revient parfois à travers les pages du nouveau. On construit quelque chose de nouveau, mais sur une base ancienne.
 
 ## Une fête dans la mémoire
 
-À l’école, juste avant les vacances de mai, on participait à des journées de nettoyage. Ce n’était pas seulement autour de l’école: à l’époque, la ville était divisée en zones attribuées aux différentes organisations, et chacun contribuait au grand ménage de printemps.
+À l’école, juste avant les vacances de mai, on participait à des journées de nettoyage. Mais ce n’était pas seulement autour de l’école : à l’époque, la ville était divisée en zones attribuées aux différentes organisations. Chacun avait sa part de trottoirs, de parcs ou de bords de route — et tout le monde mettait la main à la pâte pour ce grand ménage de printemps.
 
-Pour nous, les enfants, c’était amusant: pas de cours, on pouvait rester dehors. Et il faisait souvent beau et chaud. Je me souviens de l’odeur de la poussière quand on balayait les routes. Étonnamment, j’en garde un souvenir presque doux. Pour moi, le 1er mai n’était pas vraiment la Fête du Travail, mais plutôt le début des vacances et des journées sans veste.
+Pour nous, les enfants, c’était amusant: pas de cours, la liberté d’être dehors toute la journée. Et souvent, le soleil était déjà bien chaud. Je me souviens de l’odeur de la poussière soulevée par les balais, du bruit des pelles contre le bitume. C’est étrange, mais j’en garde un souvenir presque tendre. Pour moi, le 1er mai, ce n’était pas la Fête du Travail. C’était le début des journées sans veste, des après-midis un peu flous où tout semblait encore possible.
 
-Pour nos parents, c’était différent : dans leur jeunesse, le 1er mai signifiait des démonstrations, des défilés syndicaux avec des banderoles et des orchestres. C’était quelque chose d’important, même si chacun avait son opinion.
+Pour nos parents, c’était différent: dans leur jeunesse, le 1er mai rimait avec démonstrations, défilés syndicaux, banderoles colorées et des orchestres. C’était quelque chose d’important, même si chacun avait son opinion.
 
 Avec le temps, même à l’époque soviétique, cette fête a changé. Elle est passée de la lutte ouvrière aux pique-niques et aux fêtes de printemps. Aujourd’hui, il reste surtout le parfum des barbecues et des sorties en nature. "Travail et solidarité" — ce sont maintenant des mots qu’on lit sur des cartes postales.
 
