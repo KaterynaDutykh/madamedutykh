@@ -31,8 +31,6 @@ seo:
   #Life the French way, #Cultural Mosaic, #Laborday2025, #Ukrainian Labor Day
 
 ---
-Spring, Labour, My May Day
-
 ## From protests to a symbol of tenderness
 
 Today is May 1st — International Labor Day. A holiday with a curious fate. Officially international, yet in Ukraine it still echoes the Soviet past. These days, May 1st is simply a day off, without marches or major celebrations.
