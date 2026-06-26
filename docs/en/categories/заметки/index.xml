@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Заметки - Category - Madame Dutykh Blog</title>
+        <link>http://localhost:1313/madamedutykh/en/categories/%D0%B7%D0%B0%D0%BC%D0%B5%D1%82%D0%BA%D0%B8/</link>
+        <description>Заметки - Category - Madame Dutykh Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 23 Jan 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/madamedutykh/en/categories/%D0%B7%D0%B0%D0%BC%D0%B5%D1%82%D0%BA%D0%B8/" rel="self" type="application/rss+xml" /><item>
+    <title>Fatal Attraction: My Rock Story</title>
+    <link>http://localhost:1313/madamedutykh/en/posts/rock_marketing/</link>
+    <pubDate>Tue, 23 Jan 2024 00:00:00 &#43;0000</pubDate>
+    <author>Катерина</author>
+    <guid>http://localhost:1313/madamedutykh/en/posts/rock_marketing/</guid>
+    <description><![CDATA[<p>Клёши, буцы, белые носочки и электрический орган — звучит как безумие. Но папа знал: я в это влюблюсь.</p>]]></description>
+</item>
+</channel>
+</rss>

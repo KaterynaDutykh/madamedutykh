@@ -1,0 +1,159 @@
+/* =========================
+   MUSIC PLAYER
+   Desktop Header + Mobile Menu
+   компоненты музыкального меню
+========================= */
+
+.music-inline {
+  display: inline-flex;
+  align-items: center;
+  vertical-align: middle;
+
+  height: var(--header-height);
+
+  gap: 6px;
+  margin: 0 4px;
+
+  white-space: nowrap; /* защита от переноса */
+}
+
+/* музыкальная нота */
+.music-icon {
+  font-size: 18px;
+  line-height: 1;
+  opacity: 0.6;
+  user-select: none;
+
+  display: inline-flex;
+  align-items: center;
+}
+
+/* 🔧 FontAwesome иконки */
+.music-inline i {
+  font-size: 14px;
+  line-height: 1;
+  display: inline-block;
+}
+
+/* кнопки */
+.music-inline button {
+  background: none;
+  border: none;
+
+  width: 26px;
+  height: 26px;
+
+  padding: 0;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  border-radius: 50%;
+
+  cursor: pointer;
+
+  color: var(--global-font-color);
+
+  transition:
+    transform 0.15s ease,
+    background-color 0.2s ease;
+}
+
+/* hover */
+.music-inline button:hover {
+  background: rgba(0, 0, 0, 0.08);
+  transform: scale(1.05);
+}
+
+/* active */
+.music-inline button:active {
+  transform: scale(0.98);
+}
+
+/* =========================
+   MOBILE MUSIC FIX (FINAL)
+========================= */
+
+@media (max-width: 768px) {
+
+  .menu-item.music-inline {
+    display: flex !important;
+    flex-direction: row !important;
+    flex-wrap: nowrap !important;
+
+    align-items: center !important;
+    justify-content: center !important;
+
+    width: auto !important;   /* КЛЮЧЕВО */
+    max-width: 100%;
+
+    gap: 8px;
+
+    padding: 8px 0;
+    margin-top: 10px;
+
+    white-space: nowrap;
+
+    line-height: normal !important;
+    text-align: center !important;
+  }
+
+  .menu-item.music-inline i,
+  .menu-item.music-inline button,
+  .menu-item.music-inline span {
+    display: inline-flex !important;
+    align-items: center;
+    justify-content: center;
+
+    flex: 0 0 auto !important;
+  }
+
+  .menu-item.music-inline .music-icon {
+    display: inline-flex !important;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .menu-item.music-inline button {
+    width: 34px;
+    height: 34px;
+  }
+}
+
+/* =========================
+   DARK THEME
+========================= */
+
+[theme="dark"] .music-inline button:hover {
+  background: rgba(255, 255, 255, 0.08);
+}
+
+[theme="dark"] .music-inline {
+  border-top-color: rgba(255, 255, 255, 0.08);
+}
+
+/* =========================
+   PLAYING ANIMATION
+========================= */
+
+.music-inline.playing .music-icon {
+  animation: musicPulse 1.4s ease-in-out infinite;
+}
+
+@keyframes musicPulse {
+  0% {
+    opacity: 0.4;
+    transform: scale(1);
+  }
+
+  50% {
+    opacity: 1;
+    transform: scale(1.12);
+  }
+
+  100% {
+    opacity: 0.4;
+    transform: scale(1);
+  }
+}

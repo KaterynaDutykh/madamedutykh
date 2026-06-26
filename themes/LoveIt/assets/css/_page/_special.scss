@@ -1,0 +1,33 @@
+.special {
+  .single-title, .single-subtitle {
+    text-align: left;
+  }
+}
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+
+.gallery-item {
+  flex: 1 1 calc(33.333% - 10px);
+  box-sizing: border-box;
+  margin-bottom: 10px;
+}
+
+.gallery-item img {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
+.caption {
+  text-align: center;
+  font-size: 0.9em;
+  color: #555;
+  margin-top: 5px;
+}
+
+/* Если вы хотите изменить количество изображений в ряду, измените значение в flex: 1 1 calc(33.333% - 10px);. Например, чтобы отображать по 4 изображения в ряду, используйте calc(25% - 10px);.
+Вы можете настроить отступы (gap) между изображениями, чтобы улучшить внешний вид галереи. */
