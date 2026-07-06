@@ -17,7 +17,7 @@
     const lightbox = GLightbox({ selector: ".glightbox", loop: true });
   });
   document.addEventListener("DOMContentLoaded", () => {
-    let carouselEl = document.getElementById(" #{{$id}} ");
+    let carouselEl = document.getElementById("#{{$id}}");
 
     // Create a new Bootstrap 5 Carousel instance with specified options
     const carousel = new bootstrap.Carousel(carouselEl, {
@@ -40,7 +40,7 @@
 <!-- Fetch images from front matter -->
 
 {{ if $images }}
-<div id="{{ $id }}" class="carousel slide" data-bs-ride="carousel" style="width: fit-content;">
+<div id="{{ $id }}" class="carousel slide mx-auto d-block" data-bs-ride="carousel" style="max-width:900px; width:fit-content;">
   <div class="carousel-inner" style="width: fit-content;">
     {{ range $index, $img := $images }}
     <div class="carousel-item {{ if eq $index 0 }}active{{ end }}">
@@ -84,9 +84,9 @@
 {{ end }}
 
 <style>
-  .carousel-item {
-    .lg-item > img {
-      height: 400px;
+  .carousel-item .lg-item > img {
+    height: 400px;
+    display: block;
     }
   }
 </style>

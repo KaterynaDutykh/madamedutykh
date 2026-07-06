@@ -1,14 +1,26 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Абу-Даби - Тэг - Madame Dutykh Blog</title>
-        <link>https://katerynadutykh.github.io/madamedutykh/ru/tags/%D0%B0%D0%B1%D1%83-%D0%B4%D0%B0%D0%B1%D0%B8/</link>
+        <link>http://localhost:1313/madamedutykh/ru/tags/%D0%B0%D0%B1%D1%83-%D0%B4%D0%B0%D0%B1%D0%B8/</link>
         <description>Абу-Даби - Тэг - Madame Dutykh Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>ru</language><lastBuildDate>Mon, 24 Apr 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://katerynadutykh.github.io/madamedutykh/ru/tags/%D0%B0%D0%B1%D1%83-%D0%B4%D0%B0%D0%B1%D0%B8/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>ru</language><lastBuildDate>Thu, 23 Nov 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/madamedutykh/ru/tags/%D0%B0%D0%B1%D1%83-%D0%B4%D0%B0%D0%B1%D0%B8/" rel="self" type="application/rss+xml" /><item>
+    <title>Выставка “ Cartier. Вдохновение исламом и современный дизайн”.</title>
+    <link>http://localhost:1313/madamedutykh/ru/posts/cartier/</link>
+    <pubDate>Thu, 23 Nov 2023 00:00:00 &#43;0000</pubDate>
+    <author>Катерина</author>
+    <guid>http://localhost:1313/madamedutykh/ru/posts/cartier/</guid>
+    <description><![CDATA[<h2 id="в-качестве-вступления">В качестве вступления.</h2>
+<p>Некоторые подарки на день рождения мы делаем себе сами.</p>
+<p>В свой 37-ой день рождения я отложила дела и поехала в Лувр Абу-Даби — на временную выставку Cartier.</p>
+<p>Я ожидала увидеть красивые украшения. В итоге еще несколько дней после выставки читала об исламском искусстве, истории семьи Картье и культурных связях, о которых раньше почти не задумывалась.</p>
+<p>Залы были наполнены драгоценными камнями, сложными орнаментами, изящными линиями, пришедшими из Персии, Индии и арабского мира. Но больше всего меня увлекли не сами украшения, а то, как идеи путешествуют между культурами. Как архитектура, орнаменты и художественные традиции находят новое воплощение в совершенно другом виде искусства.</p>]]></description>
+</item>
+<item>
     <title>Новая глава в жизни.</title>
-    <link>https://katerynadutykh.github.io/madamedutykh/ru/posts/new_chapter_of_life/</link>
+    <link>http://localhost:1313/madamedutykh/ru/posts/new_chapter_of_life/</link>
     <pubDate>Mon, 24 Apr 2023 00:00:00 &#43;0000</pubDate>
     <author>Катерина</author>
-    <guid>https://katerynadutykh.github.io/madamedutykh/ru/posts/new_chapter_of_life/</guid>
+    <guid>http://localhost:1313/madamedutykh/ru/posts/new_chapter_of_life/</guid>
     <description><![CDATA[<p><strong>Обалдеть!</strong></p>
 <p>…это одна из наших реакций на то, что мы видим в Абу-Даби.</p>
 <p>Пока чувство новизны не притупилось, краски ярки и местные нюансы бросаются в глаза своими отличительными особенностями, поделюсь с вами некоторыми моментами, которые меня удивили:</p>]]></description>

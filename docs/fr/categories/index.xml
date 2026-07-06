@@ -1,86 +1,86 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Categories - Catégorie - Madame Dutykh Blog</title>
-        <link>https://katerynadutykh.github.io/madamedutykh/fr/categories/</link>
+        <link>http://localhost:1313/madamedutykh/fr/categories/</link>
         <description>Categories - Catégorie - Madame Dutykh Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Thu, 01 May 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://katerynadutykh.github.io/madamedutykh/fr/categories/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Thu, 01 May 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/madamedutykh/fr/categories/" rel="self" type="application/rss+xml" /><item>
     <title>Cultural Mosaic</title>
-    <link>https://katerynadutykh.github.io/madamedutykh/fr/categories/cultural-mosaic/</link>
+    <link>http://localhost:1313/madamedutykh/fr/categories/cultural-mosaic/</link>
     <pubDate>Thu, 01 May 2025 00:00:00 &#43;0000</pubDate>
     <author>Auteur</author>
-    <guid>https://katerynadutykh.github.io/madamedutykh/fr/categories/cultural-mosaic/</guid>
+    <guid>http://localhost:1313/madamedutykh/fr/categories/cultural-mosaic/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>France</title>
-    <link>https://katerynadutykh.github.io/madamedutykh/fr/categories/france/</link>
+    <link>http://localhost:1313/madamedutykh/fr/categories/france/</link>
     <pubDate>Thu, 01 May 2025 00:00:00 &#43;0000</pubDate>
     <author>Auteur</author>
-    <guid>https://katerynadutykh.github.io/madamedutykh/fr/categories/france/</guid>
+    <guid>http://localhost:1313/madamedutykh/fr/categories/france/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>Personal Experience</title>
-    <link>https://katerynadutykh.github.io/madamedutykh/fr/categories/personal-experience/</link>
+    <link>http://localhost:1313/madamedutykh/fr/categories/personal-experience/</link>
     <pubDate>Thu, 01 May 2025 00:00:00 &#43;0000</pubDate>
     <author>Auteur</author>
-    <guid>https://katerynadutykh.github.io/madamedutykh/fr/categories/personal-experience/</guid>
+    <guid>http://localhost:1313/madamedutykh/fr/categories/personal-experience/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>Ukraine</title>
-    <link>https://katerynadutykh.github.io/madamedutykh/fr/categories/ukraine/</link>
+    <link>http://localhost:1313/madamedutykh/fr/categories/ukraine/</link>
     <pubDate>Thu, 01 May 2025 00:00:00 &#43;0000</pubDate>
     <author>Auteur</author>
-    <guid>https://katerynadutykh.github.io/madamedutykh/fr/categories/ukraine/</guid>
+    <guid>http://localhost:1313/madamedutykh/fr/categories/ukraine/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>Emirates</title>
-    <link>https://katerynadutykh.github.io/madamedutykh/fr/categories/emirates/</link>
+    <link>http://localhost:1313/madamedutykh/fr/categories/emirates/</link>
     <pubDate>Sun, 20 Apr 2025 00:00:00 &#43;0000</pubDate>
     <author>Auteur</author>
-    <guid>https://katerynadutykh.github.io/madamedutykh/fr/categories/emirates/</guid>
+    <guid>http://localhost:1313/madamedutykh/fr/categories/emirates/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>Abou Dhabi</title>
-    <link>https://katerynadutykh.github.io/madamedutykh/fr/categories/abou-dhabi/</link>
+    <link>http://localhost:1313/madamedutykh/fr/categories/abou-dhabi/</link>
     <pubDate>Mon, 24 Apr 2023 00:00:00 &#43;0000</pubDate>
     <author>Auteur</author>
-    <guid>https://katerynadutykh.github.io/madamedutykh/fr/categories/abou-dhabi/</guid>
+    <guid>http://localhost:1313/madamedutykh/fr/categories/abou-dhabi/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>Emirats</title>
-    <link>https://katerynadutykh.github.io/madamedutykh/fr/categories/emirats/</link>
+    <link>http://localhost:1313/madamedutykh/fr/categories/emirats/</link>
     <pubDate>Mon, 24 Apr 2023 00:00:00 &#43;0000</pubDate>
     <author>Auteur</author>
-    <guid>https://katerynadutykh.github.io/madamedutykh/fr/categories/emirats/</guid>
+    <guid>http://localhost:1313/madamedutykh/fr/categories/emirats/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>Expérience Personnelle</title>
-    <link>https://katerynadutykh.github.io/madamedutykh/fr/categories/exp%C3%A9rience-personnelle/</link>
+    <link>http://localhost:1313/madamedutykh/fr/categories/exp%C3%A9rience-personnelle/</link>
     <pubDate>Mon, 24 Apr 2023 00:00:00 &#43;0000</pubDate>
     <author>Auteur</author>
-    <guid>https://katerynadutykh.github.io/madamedutykh/fr/categories/exp%C3%A9rience-personnelle/</guid>
+    <guid>http://localhost:1313/madamedutykh/fr/categories/exp%C3%A9rience-personnelle/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>Notes</title>
-    <link>https://katerynadutykh.github.io/madamedutykh/fr/categories/notes/</link>
+    <link>http://localhost:1313/madamedutykh/fr/categories/notes/</link>
     <pubDate>Mon, 24 Apr 2023 00:00:00 &#43;0000</pubDate>
     <author>Auteur</author>
-    <guid>https://katerynadutykh.github.io/madamedutykh/fr/categories/notes/</guid>
+    <guid>http://localhost:1313/madamedutykh/fr/categories/notes/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>Savoie</title>
-    <link>https://katerynadutykh.github.io/madamedutykh/fr/categories/savoie/</link>
+    <link>http://localhost:1313/madamedutykh/fr/categories/savoie/</link>
     <pubDate>Thu, 03 Aug 2017 00:00:00 &#43;0000</pubDate>
     <author>Auteur</author>
-    <guid>https://katerynadutykh.github.io/madamedutykh/fr/categories/savoie/</guid>
+    <guid>http://localhost:1313/madamedutykh/fr/categories/savoie/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>

@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Савойя - Тэг - Madame Dutykh Blog</title>
-        <link>https://katerynadutykh.github.io/madamedutykh/ru/tags/%D1%81%D0%B0%D0%B2%D0%BE%D0%B9%D1%8F/</link>
+        <link>http://localhost:1313/madamedutykh/ru/tags/%D1%81%D0%B0%D0%B2%D0%BE%D0%B9%D1%8F/</link>
         <description>Савойя - Тэг - Madame Dutykh Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>ru</language><lastBuildDate>Wed, 13 May 2020 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://katerynadutykh.github.io/madamedutykh/ru/tags/%D1%81%D0%B0%D0%B2%D0%BE%D0%B9%D1%8F/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>ru</language><lastBuildDate>Wed, 13 May 2020 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/madamedutykh/ru/tags/%D1%81%D0%B0%D0%B2%D0%BE%D0%B9%D1%8F/" rel="self" type="application/rss+xml" /><item>
     <title>Теперь нас четверо!</title>
-    <link>https://katerynadutykh.github.io/madamedutykh/ru/posts/we_are_four_now/</link>
+    <link>http://localhost:1313/madamedutykh/ru/posts/we_are_four_now/</link>
     <pubDate>Wed, 13 May 2020 00:00:00 &#43;0000</pubDate>
     <author>Катерина</author>
-    <guid>https://katerynadutykh.github.io/madamedutykh/ru/posts/we_are_four_now/</guid>
+    <guid>http://localhost:1313/madamedutykh/ru/posts/we_are_four_now/</guid>
     <description><![CDATA[<h2 id="вступление">Вступление.</h2>
 <p>Месяц назад, 13 апреля 2020 года, в нашей семье произошло чудесное событие - у нас родился второй сын.</p>
 <p>В 2017 году я уже публиковала заметку, в которой более подробно описывала свой <strong><a href="https://katerynadutykh.github.io/madamedutykh/ru/posts/first_giving_birth/" target="_blank" rel="noopener noreffer ">опыт беременности и родов во Франции</a></strong>.  Сегодня поделюсь с вами тем, как всё происходило в этот раз.</p>
@@ -16,10 +16,10 @@
 </item>
 <item>
     <title>Мой опыт беременности и родов в Шамбери.</title>
-    <link>https://katerynadutykh.github.io/madamedutykh/ru/posts/first_giving_birth/</link>
+    <link>http://localhost:1313/madamedutykh/ru/posts/first_giving_birth/</link>
     <pubDate>Fri, 08 Dec 2017 00:00:00 &#43;0000</pubDate>
     <author>Катерина</author>
-    <guid>https://katerynadutykh.github.io/madamedutykh/ru/posts/first_giving_birth/</guid>
+    <guid>http://localhost:1313/madamedutykh/ru/posts/first_giving_birth/</guid>
     <description><![CDATA[<h2 id="французский-подход-к-беременности-и-ее-ведению">Французский подход к беременности и ее ведению.</h2>
 <p>В этой записи хочу поделиться своим недавним опытом беременности и родов во французском городе Шамбери, Франция. Без лишних подробностей, поэтому статью могут читать и мужчины.</p>
 <p>Прежде всего, я заметила, что к беременности во Франции относятся проще, чем в Украине, по рассказам моих друзей и семьи в Украине. Беременность здесь не считается болезнью или инвалидностью. Чаще всего от врача в ответ на жалобы можно услышать что-то типа &ldquo;Это нормально, такое бывает&rdquo; или &ldquo;Через время пройдет, а если нет, то будем назначать анализы&rdquo;.</p>
@@ -27,19 +27,19 @@
 </item>
 <item>
     <title>Не дарите цветов! N’offrez pas de fleurs !</title>
-    <link>https://katerynadutykh.github.io/madamedutykh/ru/posts/international_womens_day/</link>
+    <link>http://localhost:1313/madamedutykh/ru/posts/international_womens_day/</link>
     <pubDate>Thu, 03 Aug 2017 00:00:00 &#43;0000</pubDate>
     <author>Катерина</author>
-    <guid>https://katerynadutykh.github.io/madamedutykh/ru/posts/international_womens_day/</guid>
+    <guid>http://localhost:1313/madamedutykh/ru/posts/international_womens_day/</guid>
     <description><![CDATA[<p>Сегодня 8 марта, Международный женский день.</p>
 <p>Для нас, девушек, он любим с детства, так как всегда полон подарков, цветов и внимания. Это день, когда мы можем почувствовать себя королевами и ничего не делать (или делать все то, что не позволено в остальное время года). У французов есть даже шутка &ldquo;Один день для женщин, и 364 других дня для мужчин&rdquo; / &ldquo;Une journée pour les femmes, les 364 autres pour les hommes&rdquo;.</p>]]></description>
 </item>
 <item>
     <title>Монастырский сад в деревне Бурже-дю-Ляк.</title>
-    <link>https://katerynadutykh.github.io/madamedutykh/ru/posts/the_priory_gardens_bourget_du_lac/</link>
+    <link>http://localhost:1313/madamedutykh/ru/posts/the_priory_gardens_bourget_du_lac/</link>
     <pubDate>Fri, 19 Jun 2015 00:00:00 &#43;0000</pubDate>
     <author>Катерина</author>
-    <guid>https://katerynadutykh.github.io/madamedutykh/ru/posts/the_priory_gardens_bourget_du_lac/</guid>
+    <guid>http://localhost:1313/madamedutykh/ru/posts/the_priory_gardens_bourget_du_lac/</guid>
     <description><![CDATA[<h2 id="вступление">Вступление</h2>
 <p>&ldquo;Катя, не ходи там одна по деревням!&rdquo; - сказала с возмущением моя мама, в ответ на мой рассказ о том, что сегодня я набрела на обалденный сад в одной из близлежащих деревень. Конечно, это была совсем не та реакция, на которую я надеялась, но что поделать, мама есть мама. 😊</p>
 <p>Пару недель назад я взяла на прокат велосипед. Утром я еду на нём по велосипедной дорожке до озера, где занимаюсь французским, читаю или просто наслаждаюсь природой — как получится. Затем кручу педали обратно домой. Так, в солнечные дни, я и стала проводить время до обеда.</p>]]></description>

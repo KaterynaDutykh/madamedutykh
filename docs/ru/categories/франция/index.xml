@@ -1,34 +1,34 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Франция - Категория - Madame Dutykh Blog</title>
-        <link>https://katerynadutykh.github.io/madamedutykh/ru/categories/%D1%84%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F/</link>
+        <link>http://localhost:1313/madamedutykh/ru/categories/%D1%84%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F/</link>
         <description>Франция - Категория - Madame Dutykh Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>ru</language><lastBuildDate>Thu, 01 May 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://katerynadutykh.github.io/madamedutykh/ru/categories/%D1%84%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>ru</language><lastBuildDate>Thu, 01 May 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/madamedutykh/ru/categories/%D1%84%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F/" rel="self" type="application/rss+xml" /><item>
     <title>Весна, труд, мой Первомай.</title>
-    <link>https://katerynadutykh.github.io/madamedutykh/ru/posts/1th_may_labor_day/</link>
+    <link>http://localhost:1313/madamedutykh/ru/posts/1th_may_labor_day/</link>
     <pubDate>Thu, 01 May 2025 00:00:00 &#43;0000</pubDate>
     <author>Катерина</author>
-    <guid>https://katerynadutykh.github.io/madamedutykh/ru/posts/1th_may_labor_day/</guid>
+    <guid>http://localhost:1313/madamedutykh/ru/posts/1th_may_labor_day/</guid>
     <description><![CDATA[<h2 id="от-демонстраций-до-символа-нежности">От демонстраций до символа нежности</h2>
 <p>Сегодня — первое мая. Международный день труда. Праздник с интересной судьбой. Официально он международный, но в украинских умах крепко связан с советским прошлым. Наверное оттого сегодня 1 мая — это просто Международный день труда, оставшийся выходным, но без массовых празднований или демонстраций.</p>
 <p>Я росла в постсоветской Украине. Не в «советском календаре», а уже после него. Но календарь, даже когда мы его якобы меняем, ещё долго проступает через страницы нового. Мы вроде как строим новое, но на старом фундаменте.</p>]]></description>
 </item>
 <item>
     <title>Идеальный дворец почтальона Шеваля: удивительный замок Франции</title>
-    <link>https://katerynadutykh.github.io/madamedutykh/ru/posts/perfect_castle/</link>
+    <link>http://localhost:1313/madamedutykh/ru/posts/perfect_castle/</link>
     <pubDate>Thu, 18 Jun 2020 00:00:00 &#43;0000</pubDate>
     <author>Катерина</author>
-    <guid>https://katerynadutykh.github.io/madamedutykh/ru/posts/perfect_castle/</guid>
+    <guid>http://localhost:1313/madamedutykh/ru/posts/perfect_castle/</guid>
     <description><![CDATA[<h2 id="необычный-архитектор">Необычный архитектор</h2>
 <p>Оказывается, что во Франции, в небольшом городке Отрив, вблизи г. Лион есть уникальная архитектурная достопримечательность. Шедевр, созданный руками сельского почтальона Фердинанда Шеваля. Идеальный дворец.</p>
 <p>Дворец? Построенный почтальоном? Он что, был богач? Такое вообще возможно?</p>]]></description>
 </item>
 <item>
     <title>Теперь нас четверо!</title>
-    <link>https://katerynadutykh.github.io/madamedutykh/ru/posts/we_are_four_now/</link>
+    <link>http://localhost:1313/madamedutykh/ru/posts/we_are_four_now/</link>
     <pubDate>Wed, 13 May 2020 00:00:00 &#43;0000</pubDate>
     <author>Катерина</author>
-    <guid>https://katerynadutykh.github.io/madamedutykh/ru/posts/we_are_four_now/</guid>
+    <guid>http://localhost:1313/madamedutykh/ru/posts/we_are_four_now/</guid>
     <description><![CDATA[<h2 id="вступление">Вступление.</h2>
 <p>Месяц назад, 13 апреля 2020 года, в нашей семье произошло чудесное событие - у нас родился второй сын.</p>
 <p>В 2017 году я уже публиковала заметку, в которой более подробно описывала свой <strong><a href="https://katerynadutykh.github.io/madamedutykh/ru/posts/first_giving_birth/" target="_blank" rel="noopener noreffer ">опыт беременности и родов во Франции</a></strong>.  Сегодня поделюсь с вами тем, как всё происходило в этот раз.</p>
@@ -36,10 +36,10 @@
 </item>
 <item>
     <title>Мой опыт беременности и родов в Шамбери.</title>
-    <link>https://katerynadutykh.github.io/madamedutykh/ru/posts/first_giving_birth/</link>
+    <link>http://localhost:1313/madamedutykh/ru/posts/first_giving_birth/</link>
     <pubDate>Fri, 08 Dec 2017 00:00:00 &#43;0000</pubDate>
     <author>Катерина</author>
-    <guid>https://katerynadutykh.github.io/madamedutykh/ru/posts/first_giving_birth/</guid>
+    <guid>http://localhost:1313/madamedutykh/ru/posts/first_giving_birth/</guid>
     <description><![CDATA[<h2 id="французский-подход-к-беременности-и-ее-ведению">Французский подход к беременности и ее ведению.</h2>
 <p>В этой записи хочу поделиться своим недавним опытом беременности и родов во французском городе Шамбери, Франция. Без лишних подробностей, поэтому статью могут читать и мужчины.</p>
 <p>Прежде всего, я заметила, что к беременности во Франции относятся проще, чем в Украине, по рассказам моих друзей и семьи в Украине. Беременность здесь не считается болезнью или инвалидностью. Чаще всего от врача в ответ на жалобы можно услышать что-то типа &ldquo;Это нормально, такое бывает&rdquo; или &ldquo;Через время пройдет, а если нет, то будем назначать анализы&rdquo;.</p>
@@ -47,38 +47,38 @@
 </item>
 <item>
     <title>Не дарите цветов! N’offrez pas de fleurs !</title>
-    <link>https://katerynadutykh.github.io/madamedutykh/ru/posts/international_womens_day/</link>
+    <link>http://localhost:1313/madamedutykh/ru/posts/international_womens_day/</link>
     <pubDate>Thu, 03 Aug 2017 00:00:00 &#43;0000</pubDate>
     <author>Катерина</author>
-    <guid>https://katerynadutykh.github.io/madamedutykh/ru/posts/international_womens_day/</guid>
+    <guid>http://localhost:1313/madamedutykh/ru/posts/international_womens_day/</guid>
     <description><![CDATA[<p>Сегодня 8 марта, Международный женский день.</p>
 <p>Для нас, девушек, он любим с детства, так как всегда полон подарков, цветов и внимания. Это день, когда мы можем почувствовать себя королевами и ничего не делать (или делать все то, что не позволено в остальное время года). У французов есть даже шутка &ldquo;Один день для женщин, и 364 других дня для мужчин&rdquo; / &ldquo;Une journée pour les femmes, les 364 autres pour les hommes&rdquo;.</p>]]></description>
 </item>
 <item>
     <title>Заметка о президентских выборах во Франции.</title>
-    <link>https://katerynadutykh.github.io/madamedutykh/ru/posts/elections_in_france/</link>
+    <link>http://localhost:1313/madamedutykh/ru/posts/elections_in_france/</link>
     <pubDate>Sun, 23 Apr 2017 00:00:00 &#43;0000</pubDate>
     <author>Катерина</author>
-    <guid>https://katerynadutykh.github.io/madamedutykh/ru/posts/elections_in_france/</guid>
+    <guid>http://localhost:1313/madamedutykh/ru/posts/elections_in_france/</guid>
     <description><![CDATA[<p>Сегодня муж впервые воспользовался правом голоса во Франции и выполнил свой гражданский долг, приняв участие в президентских выборах. Поэтому, несмотря на то, что в моем блоге я не планировала освещать свое отношение к тем или иным политическим событиям, мне захотелось написать эту заметку.</p>
 <p>Сразу оговорюсь, что я не считаю себя сильным собеседником в диспутах на политическую тематику, поэтому даже не стану пытаться давать глубокий анализ политических программ кандидатов, или строить прогнозы о жизни после выборов. В конце концов, для этого есть специалисты и в интернете полным-полно информации начиная от системы избирательного права во Франции и заканчивая разбором &ldquo;под микроскопом&rdquo; предвыборных обещаний кандидатов и высказываний мнений по поводу дальнейшего развития событий на мировой арене.</p>]]></description>
 </item>
 <item>
     <title>Немного статистики о доходах во Франции.</title>
-    <link>https://katerynadutykh.github.io/madamedutykh/ru/posts/french_income/</link>
+    <link>http://localhost:1313/madamedutykh/ru/posts/french_income/</link>
     <pubDate>Sat, 15 Aug 2015 00:00:00 &#43;0000</pubDate>
     <author>Катерина</author>
-    <guid>https://katerynadutykh.github.io/madamedutykh/ru/posts/french_income/</guid>
+    <guid>http://localhost:1313/madamedutykh/ru/posts/french_income/</guid>
     <description><![CDATA[<h2 id="введение">Введение</h2>
 <p>Первоначальной идеей создания этого блога было желание поделиться с близкими своими эмоциями и фото/видео материалами, которые накапливаются во время путешествий (или командировок мужа). И поэтому, я стараюсь подавать информацию в легкой и непринужденной форме (надеюсь, что это у меня получается).</p>
 <p>Но, я убедилась, что все-таки вас интересуют и более серьезные моменты. А из того, как задавались вопросы или давались комментарии в разговорах, я поняла и то, что информационное поле Украины, в определенной степени формирует в подсознании наших людей определенные иллюзии по поводу реальной жизни в Европе, и в частности во Франции. Так что сегодняшняя статья будет серьезная и информативная. Кроме того, именно ею я открываю новую рубрику &ldquo;Жизнь по-французски&rdquo;.</p>]]></description>
 </item>
 <item>
     <title>Монастырский сад в деревне Бурже-дю-Ляк.</title>
-    <link>https://katerynadutykh.github.io/madamedutykh/ru/posts/the_priory_gardens_bourget_du_lac/</link>
+    <link>http://localhost:1313/madamedutykh/ru/posts/the_priory_gardens_bourget_du_lac/</link>
     <pubDate>Fri, 19 Jun 2015 00:00:00 &#43;0000</pubDate>
     <author>Катерина</author>
-    <guid>https://katerynadutykh.github.io/madamedutykh/ru/posts/the_priory_gardens_bourget_du_lac/</guid>
+    <guid>http://localhost:1313/madamedutykh/ru/posts/the_priory_gardens_bourget_du_lac/</guid>
     <description><![CDATA[<h2 id="вступление">Вступление</h2>
 <p>&ldquo;Катя, не ходи там одна по деревням!&rdquo; - сказала с возмущением моя мама, в ответ на мой рассказ о том, что сегодня я набрела на обалденный сад в одной из близлежащих деревень. Конечно, это была совсем не та реакция, на которую я надеялась, но что поделать, мама есть мама. 😊</p>
 <p>Пару недель назад я взяла на прокат велосипед. Утром я еду на нём по велосипедной дорожке до озера, где занимаюсь французским, читаю или просто наслаждаюсь природой — как получится. Затем кручу педали обратно домой. Так, в солнечные дни, я и стала проводить время до обеда.</p>]]></description>
