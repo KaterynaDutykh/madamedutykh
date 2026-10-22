@@ -92,10 +92,6 @@ publishDir = "docs"
     iconColor = "#50040F"
     tileColor = "#D35140"
   
-  [params.onesignal]
-    enable = true
-    id = "bketrin@gmail.com"
-    password = "6&Ci23phZPHn6E"
 
   [params.search]
     enable = false
