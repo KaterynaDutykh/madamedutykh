@@ -57,11 +57,10 @@ seo:
 
 ## От архитектуры до украшения.
 <br>
-
 <div class="great-vibes" style="font-weight: 400; font-style: italic; font-size: 24px; line-height: 1.6; text-align: center; max-width: 780px; margin: 0 auto;">
 В конце XIX века Париж переживал увлечение исламским искусством. <br>
 </div>
-<div class="great-vibes" style="font-weight: 400; font-style: italic; font-size: 24px; line-height: 1.6; text-align: center; max-width: 800px; margin: 0 auto;">
+<div class="great-vibes" style="font-weight: 400; font-style: italic; font-size: 24px; line-height: 1.6; text-align: center; max-width: 745px; margin: 0 auto;">
 Благодаря международным выставкам и потоку предметов с Востока европейская публика открывала для себя новые орнаменты, архитектурные формы и декоративные традиции. К началу XX века персидские мотивы уже прочно вошли в моду, интерьерный дизайн и ювелирное искусство. <br>
 </div>
 <br>
@@ -222,5 +221,6 @@ seo:
 Я вышла с ощущением, что самое интересное происходит в диалоге между культурами, эпохами, людьми. Что красота и изобретательность не рождается из пустоты, а есть следствием любопытства, наблюдательности и способности вдохновляться миром вокруг. 
 
 {{< bootstrap-carousel slides="slides2" >}}
+<br>
 
 {{< youtube jNfeeBrFBzo >}}
