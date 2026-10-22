@@ -1,5 +1,5 @@
 # Core settings from config.toml
-baseURL = "https://katerynadutykh.github.io/madamedutykh/"
+baseURL = "https://kateryna.dutykh.com/"
 title = "Madame Dutykh"
 theme = "LoveIt"  # Ensure the theme is specified
 defaultContentLanguage = 'en'
@@ -7,7 +7,6 @@ defaultContentLanguageInSubdir = true
 languageCode= "en"
 paginaton.pagerSize = 6
 ignoreErrors = ["error-remote-getjson"]
-publishDir = "docs"
 
 # Remove or comment out incorrect themesDir
 # themesDir = "../.."  # Not needed unless themes are in a custom location
